@@ -1,0 +1,9313 @@
+[
+    {
+        "zone": "R731",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S14",
+        "smoke alarm": "SMK",
+        "site": "SOD",
+        "ahu": "A2"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "mixed air temp": "MAT",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R315",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R723",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R327",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P02",
+        "fault sensor": "FLT"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R798",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R405B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R683",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R405B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R311",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "lead/lag sensor": "L_L"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "pump": "SP03",
+        "fault sensor": "FLT"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R645",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R288",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R419",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "C611",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S14",
+        "site": "SOD",
+        "pid loop P variable": "P__VR",
+        "ahu": "A2"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R534",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R341",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "chilled water return temp": "CHWRT",
+        "chiller": "CH1",
+        "site": "SODA"
+    },
+    {
+        "zone": "R465_4",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "site": "SOD",
+        "event sensor": "EVENT",
+        "ahu": "A2"
+    },
+    {
+        "zone": "R329",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465_4",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R367",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R465_6",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465_6",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R445",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R516",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "alarm variable": "A_M"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R719",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R416",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R798",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R330A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R677",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R184",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R438",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R573",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E17",
+        "ahu": "A3",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R573",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R652",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R288",
+        "site": "SOD",
+        "ahu": "A1",
+        "timer variable": "TMR"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C2",
+        "timer variable": "TMR"
+    },
+    {
+        "condensor pump": "CP1",
+        "alarm variable": "ALM",
+        "site": "SOD"
+    },
+    {
+        "return water temp": "RWT",
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S11",
+        "supply air temp setpoint": "SAS",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S11",
+        "supply air temp": "SAT",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "ahu": "A4",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "cooling capacity": "TON",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A2"
+    },
+    {
+        "zone": "R784",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P04",
+        "fault sensor": "FLT"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R779",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R779",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R331",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R678",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R465C",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "status sensor": "STA",
+        "pump": "P04"
+    },
+    {
+        "timer variable": "TMR",
+        "site": "SOD"
+    },
+    {
+        "zone": "R430",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "pump": "P",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R430",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R385",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R635",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "ahu": "A4",
+        "site": "SOD",
+        "exhaust fan": "E19",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R629",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R566",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "curtailment override variable": "CURTL",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P10",
+        "fault sensor": "FLT"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "pump": "P06",
+        "chiller": "C2",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R316",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "differential pressure reading": "DPR"
+    },
+    {
+        "differential pressure setpoint": "DPS",
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C400B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R535",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R535",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C300B",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R376A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R582",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R543",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R277",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R271",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "reset variable": "RESET",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "R277",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R385",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R383",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R349",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R684",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R721",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "supply fan": "S03A",
+        "zone temp sensor": "ART",
+        "zone": "R179",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S03A",
+        "zone": "R179",
+        "site": "SOD",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R533",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R687",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "pid loop I variable": "I__VR"
+    },
+    {
+        "zone": "R687",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "site": "SOD",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "hpsteam sensor": "HPSTM",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "R420",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A33"
+    },
+    {
+        "zone": "R734",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C711",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R671",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "site": "SOD",
+        "event sensor": "EVENT",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "ahu": "A4",
+        "internal building variable": "VR"
+    },
+    {
+        "zone": "R410B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S11",
+        "air volume": "CFM",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R444",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R337",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R323",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R323",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R349",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R625",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "valve position": "VLV",
+        "chiller": "C2"
+    },
+    {
+        "zone": "R465_6",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "power meter": "KW",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C2"
+    },
+    {
+        "zone": "R465B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R434",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R365",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R447",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R365",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R410A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R534",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R542",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R723",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R723",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R465_3",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R441",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R731",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "hot water loop": "H1",
+        "return water temp": "RWT",
+        "site": "SOD"
+    },
+    {
+        "zone": "R695",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R731",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R583",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E01B",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R685",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "valve position": "VLV",
+        "cooling tower": "T2"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "R465_7",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R465_7",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R789",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A40"
+    },
+    {
+        "lead/lag sensor": "L_L",
+        "chilled/condensor water loop": "C2",
+        "site": "SOD"
+    },
+    {
+        "zone": "R442",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R438",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R675",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R675",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R438",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R498",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R725",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R498",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R430",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R284",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C711",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465C",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R465C",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "site": "SOD",
+        "status sensor": "STA"
+    },
+    {
+        "ahu": "A3",
+        "site": "SOD",
+        "exhaust fan": "E17",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A38"
+    },
+    {
+        "failure flag": "FAIL",
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P04"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P09",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R329",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R579",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R345",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "night start time sensor": "N_TM",
+        "site": "SOD",
+        "zone": "R785",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R345",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R798",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R567",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R567",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R795",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R517",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R775",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R352",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R190A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "site": "SOD",
+        "filtered air volume": "F_CFM",
+        "exhaust fan": "E13",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R271",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R271",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "fan control unit": "FC01B",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R376A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R376A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R551",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "compressor": "CMP2",
+        "chiller": "C3_4"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "compressor": "CMP3",
+        "chiller": "C3_4"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "compressor": "CMP1",
+        "chiller": "C3"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "compressor": "CMP4",
+        "chiller": "C3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R342",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465_5",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R779",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R579",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R465C",
+        "site": "SOD",
+        "reheat valve position": "RVP",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R283E",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R420",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R277",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R315",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R579",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R580",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "supply air setpoint flag": "SASA_M",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R682",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P03",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R582",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R321",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R784",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "internal building variable": "VR"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R383",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R383",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "floor": "F2",
+        "site": "SOD",
+        "ahu": "A1",
+        "max discharge air pressure sensor": "VAV_MX"
+    },
+    {
+        "zone": "R413",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "floor": "F2",
+        "min discharge air pressure sensor": "VAV_MN",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P10",
+        "start stop sensor": "S_S"
+    },
+    {
+        "reset variable": "RESET",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "R280",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R330B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R323",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465_3",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R465_3",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S20",
+        "site": "SOD",
+        "ahu": "A5",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R689",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "site": "SOD",
+        "status sensor": "STA"
+    },
+    {
+        "zone": "R342",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P10",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "zone": "R698",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R290",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R290",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R444",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R343",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R434",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R445",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "occupancy sensor": "OCCPY",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R514",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R687",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R340",
+        "site": "SOD",
+        "ahu": "A1",
+        "timer variable": "TMR"
+    },
+    {
+        "zone": "R685",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R190B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R190B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R685",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R364",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R345",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R517",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S18",
+        "air volume": "CFM",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C700D",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R410A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R623",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "filtered flow sensor": "F_FLOW",
+        "chilled/condensor water loop": "C1P",
+        "site": "SOD"
+    },
+    {
+        "zone": "R600B",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R447",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R365",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R447",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R319",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R741",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S14",
+        "site": "SOD",
+        "ahu": "A2",
+        "hot water valve position": "HVP"
+    },
+    {
+        "zone": "R319",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R445",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R342",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R726",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S14",
+        "site": "SOD",
+        "ahu": "A2",
+        "fault sensor": "FLT"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R410B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R410B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S11",
+        "west filtered static pressure sensor": "WFSTP",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply water setpoint": "SWS",
+        "chilled/condensor water loop": "C2",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "supply water temp": "SWT"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R442",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R442",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R438",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R675",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R320",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R320",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R580",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R621",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R529",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R734",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R380",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R606",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R284",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R531",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R284",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R367",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R498",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R789",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R321",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R321",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P01",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R621",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R621",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R643",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R333",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R795",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R530",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R795",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "pid loop P variable": "P__VR",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R411",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E13",
+        "ahu": "A1",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R567",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R739",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R776",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R420A",
+        "site": "SOD",
+        "ahu": "A1",
+        "timer variable": "TMR"
+    },
+    {
+        "zone": "R430",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R587",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R678",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R190A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S01",
+        "zone": "R183",
+        "site": "SOD",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S01",
+        "zone temp sensor": "ART",
+        "zone": "R183",
+        "site": "SOD"
+    },
+    {
+        "zone": "R190A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "C300",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P10",
+        "fan speed": "SPD"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C3_4",
+        "supply water temp": "SWT"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R290",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P10",
+        "fan speed reset": "SPR"
+    },
+    {
+        "zone": "R420",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "supply air setpoint flag": "SASA_M",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R514",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R514",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A31"
+    },
+    {
+        "zone": "R637",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R385",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R637",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R695",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R689",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R682",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R682",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "pump": "P",
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "A_M"
+    },
+    {
+        "start stop sensor": "S_S",
+        "site": "SOD",
+        "ahu": "A2"
+    },
+    {
+        "zone": "R727",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R379",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "floor": "F3",
+        "site": "SOD",
+        "ahu": "A1",
+        "avg discharge air pressure sensor": "VAV_AV"
+    },
+    {
+        "zone": "R381",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R319",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "pump": "P",
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "alarm variable": "A_M"
+    },
+    {
+        "supply fan": "S20",
+        "site": "SOD",
+        "ahu": "A5",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "timer variable": "TMR",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R783",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R516",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C611",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R781",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R444",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "power demand": "KWD",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "power meter": "KWH",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R513",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R665",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R567",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R734",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R734",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R283E",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R529",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R529",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R729",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R682",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R320",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R352",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R524",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R524",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R531",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C751",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R383",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R531",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R190B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R325",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R685",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R339",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "ahu": "A1",
+        "site": "SOD",
+        "exhaust fan": "E13",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "zone": "R313",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E19",
+        "ahu": "A4",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "C700D",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R373",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R577",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R623",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R623",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R739",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "lead/lag sensor": "L_L",
+        "pump": "P",
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R527",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R739",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "alarm variable": "ALM",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "pid loop P variable": "P__VR",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S14",
+        "site": "SOD",
+        "mixed air temp": "MAT",
+        "ahu": "A2"
+    },
+    {
+        "supply fan": "S14",
+        "mixed air damper": "DMP",
+        "site": "SOD",
+        "ahu": "A2"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R627",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C511",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "cooling tower": "T1",
+        "start stop sensor": "S_S"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "static pressure sensor": "STP",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "ahu": "A3",
+        "static pressure setpoint": "STS"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "static pressure sensor": "STP",
+        "ahu": "A3"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P09",
+        "fault sensor": "FLT"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R417",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R287",
+        "ahu": "A1",
+        "site": "SOD",
+        "alarm variable": "ALM"
+    },
+    {
+        "zone": "R405A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R445",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "steam on/off indicator": "STMON",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R445",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R442",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R595",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R341",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R771",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C180",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R385",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R385",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R637",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R375",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "C300T",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R5831",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R333",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R321",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "failure flag": "FAIL",
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P10"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R727",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R727",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R337A",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R410B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R449",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "status sensor": "STA",
+        "pump": "P11",
+        "chiller": "C3"
+    },
+    {
+        "zone": "R795",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R665",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R319",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R665",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R785",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "supply fan": "S14",
+        "supply air temp setpoint": "SAS",
+        "site": "SOD",
+        "ahu": "A2"
+    },
+    {
+        "supply fan": "S14",
+        "supply air temp": "SAT",
+        "site": "SOD",
+        "ahu": "A2"
+    },
+    {
+        "zone": "R785",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R444",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R645",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R733",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R465K",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R337",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R681B",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R681B",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "timer variable": "TMR",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R677",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "site": "SOD",
+        "event sensor": "EVENT",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C411",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R537",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "start stop sensor": "S_S",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R731",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S11",
+        "mixed air damper": "DMP",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A36"
+    },
+    {
+        "zone": "R787",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R449",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R367",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R393",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R364",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "failure flag": "FAIL",
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P09"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R393",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R615",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "curtailment override variable": "CURTL",
+        "site": "SOD",
+        "ahu": "A2"
+    },
+    {
+        "zone": "R533",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C3",
+        "max load sensor": "LOAD"
+    },
+    {
+        "zone": "R339",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R325",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R325",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R623",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "pump": "P",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "alarm variable": "A_M"
+    },
+    {
+        "zone": "R552",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465K",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R465K",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R777",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R771",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R398",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R510",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C2",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R516",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R523",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R516",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R275",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "CP1",
+        "site": "SOD",
+        "temp sensor": "TEMP"
+    },
+    {
+        "chilled water return temp": "CHWRT",
+        "chiller": "CH2",
+        "site": "SODA"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A37"
+    },
+    {
+        "zone": "R752",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C2",
+        "fault sensor": "FLT"
+    },
+    {
+        "smoke alarm": "SMK_ALM",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "smoke alarm": "SMK_ALM",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "smoke alarm": "SMK_ALM",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R800A",
+        "site": "SOD",
+        "ahu": "A5",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A41"
+    },
+    {
+        "zone": "R580",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R800A",
+        "site": "SOD",
+        "ahu": "A5"
+    },
+    {
+        "zone": "R734",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R598",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R721",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R365",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R633",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P04",
+        "fan speed reset": "SPR"
+    },
+    {
+        "supply fan": "S02",
+        "zone": "R181",
+        "site": "SOD",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "mixed air temp": "MAT",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S02",
+        "zone temp sensor": "ART",
+        "zone": "R181",
+        "site": "SOD"
+    },
+    {
+        "lead/lag sensor": "L_L",
+        "pump": "P",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R524",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P04",
+        "fan speed": "SPD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465H",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R726",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R405B",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465H",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R725",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R376A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R311",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R311",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "site": "SOD",
+        "status sensor": "STA"
+    },
+    {
+        "zone": "R440",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R531",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "cooling tower": "T1",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R389",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R5871",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R347",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R347",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R342",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C511",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C511",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R340",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R340",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "ahu": "A2",
+        "site": "SOD",
+        "exhaust fan": "E15",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "zone": "C300B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C300B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E05",
+        "status sensor": "STA"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R449",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "reset variable": "RESET",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R311",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R598",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R449",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R787",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R787",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R543",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R627",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R375",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R375",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R627",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R465D",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R515",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R515",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E04",
+        "status sensor": "STA"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R543",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "return water temp": "RWT",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD"
+    },
+    {
+        "power meter": "KWH",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C2"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R333",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R465_5",
+        "site": "SOD",
+        "reheat valve position": "RVP",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R333",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A34"
+    },
+    {
+        "zone": "R329",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R595",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R595",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R785",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R523",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R523",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R645",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R733",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R727",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R733",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R645",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R379",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R677",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R405A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R405A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "outside air temp": "OAT",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C300T",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R280",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R681B",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R415",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R633",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R598",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R564",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R564",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C300B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R598",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R735",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "site": "SOD",
+        "event sensor": "EVENT",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R421",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R633",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S03A",
+        "zone": "R179",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R651",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R533",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R533",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S14",
+        "site": "SOD",
+        "ahu": "A2",
+        "internal building variable": "VR"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "static pressure alarm": "STPALM",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R393",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R552",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465K",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "site": "SOD",
+        "alarm variable": "ALM"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R443",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R552",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R5511",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S02",
+        "zone": "R181",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R784",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R415",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R389",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R389",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R384",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R384",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "zone_337A",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "ahu": "A3",
+        "internal building variable": "VR"
+    },
+    {
+        "zone": "C500B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R783",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R340",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R530",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "return air temp": "RAT",
+        "site": "SOD",
+        "exhaust fan": "E15",
+        "ahu": "A2"
+    },
+    {
+        "zone": "R347",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R639",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C500B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R373",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled water supply temp": "CHWST",
+        "chiller": "CH2",
+        "site": "SODA"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R287",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C600A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C600A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R287",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R752",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "static pressure sensor": "STP",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "ahu": "A4",
+        "static pressure setpoint": "STS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R579",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A32"
+    },
+    {
+        "zone": "R580",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R580",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C700B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C3_4",
+        "condensor water supply water temp": "CDSWT"
+    },
+    {
+        "zone": "R515",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "C511",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P02",
+        "fan speed reset": "SPR"
+    },
+    {
+        "site": "SOD",
+        "filtered air volume": "F_CFM",
+        "exhaust fan": "E12",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R419",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R627",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R420",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R542",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R542",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "filtered air volume": "F_CFM",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R369",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R329",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R725",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R725",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R465H",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R440",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R440",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "air volume": "CFM",
+        "site": "SOD",
+        "exhaust fan": "E12",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R311",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "ahu": "A4",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R333",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A33"
+    },
+    {
+        "zone": "R379",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R275",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R379",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R514",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465_3",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R465_3",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R465_3",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C700C",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA"
+    },
+    {
+        "zone": "R405A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R452",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "site": "SOD",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "zone": "R290",
+        "ahu": "A1",
+        "site": "SOD",
+        "alarm variable": "ALM"
+    },
+    {
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R785",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C751",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R508",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R508",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R563",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R629",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P10",
+        "current reading": "AMP"
+    },
+    {
+        "zone": "R327",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R190A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "damper economize flag": "H_C",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R375",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R410A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C711",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "supply fan": "S14",
+        "site": "SOD",
+        "ahu": "A2",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "zone": "R465E",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R373",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R465C",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R671",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "damper economize flag": "H_C",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R681A",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R787",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R187",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "static pressure alarm": "STPALM",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R562A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R562A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R676",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R676",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R416",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "C500A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "alarm variable": "A_M"
+    },
+    {
+        "zone": "R552",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R287",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "C600A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R373",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R373",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "power meter": "KWH",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "C400B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R530",
+        "ahu": "A1",
+        "site": "SOD",
+        "alarm variable": "ALM"
+    },
+    {
+        "power demand": "KWD",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "current reading": "AMP",
+        "pump": "P01"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A31"
+    },
+    {
+        "supply fan": "S14",
+        "site": "SOD",
+        "supply air setpoint flag": "SASA_M",
+        "ahu": "A2"
+    },
+    {
+        "zone": "R383",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R529",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R288",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R564",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "ahu": "A3",
+        "pid loop I variable": "I__VR"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R415",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R415",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R545",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A36"
+    },
+    {
+        "zone": "R533",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R719",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R447",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C700B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C700B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R306",
+        "site": "SOD",
+        "ahu": "A2"
+    },
+    {
+        "zone": "R306",
+        "site": "SOD",
+        "ahu": "A2",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "outside relative humidity": "ORH",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "R675",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R583",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R389",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "cooling tower": "T2",
+        "start stop sensor": "S_S"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "status sensor": "STA",
+        "pump": "P12",
+        "chiller": "C3"
+    },
+    {
+        "zone": "R576",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C700A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R639",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R639",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R190B",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R384",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R421",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R430A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R430A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R421",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R530",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P01",
+        "start stop sensor": "S_S"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R531",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S18",
+        "supply air temp setpoint": "SAS",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S18",
+        "supply air temp": "SAT",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R327",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R327",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R508",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R440",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R187",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "supply water temp": "SWT"
+    },
+    {
+        "zone": "R695",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R583",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R729",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R773",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R288",
+        "ahu": "A1",
+        "site": "SOD",
+        "alarm variable": "ALM"
+    },
+    {
+        "zone": "R600A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R331",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R331",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "status sensor": "STA",
+        "cooling tower": "T1"
+    },
+    {
+        "zone": "R419",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R419",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R752",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S16",
+        "supply air temp setpoint": "SAS",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "supply fan": "S16",
+        "supply air temp": "SAT",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E03",
+        "start stop sensor": "S_S"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P03",
+        "fan speed reset": "SPR"
+    },
+    {
+        "zone": "R737",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R725",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R465H",
+        "site": "SOD",
+        "reheat valve position": "RVP",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C600B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R542",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R500A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R562A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R563",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R563",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C400A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E05",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "C400A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C500A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C500A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R582_2",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "fan control unit": "FC01A",
+        "site": "SOD",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "status sensor": "STA",
+        "cooling tower": "T2"
+    },
+    {
+        "zone": "R684",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R287",
+        "site": "SOD",
+        "ahu": "A1",
+        "timer variable": "TMR"
+    },
+    {
+        "zone": "R377",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R676",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R789",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "fan control unit": "FC01A",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R789",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R420A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "bypass valve": "VP",
+        "chilled/condensor water loop": "C3",
+        "site": "SOD"
+    },
+    {
+        "timer variable": "TMR",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R727",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R629",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R629",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C751",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R326",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R326",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C751",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R551",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R739",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "hot water loop": "H1",
+        "supply water setpoint": "SWS",
+        "site": "SOD"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "supply water temp": "SWT"
+    },
+    {
+        "zone": "R798",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R380",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R380",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465E",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R465E",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "C700A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R277",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R321",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R643",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "bypass valve": "VP",
+        "chilled/condensor water loop": "C2",
+        "site": "SOD"
+    },
+    {
+        "occupancy sensor": "OCCPY",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R421",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R421",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R430A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R639",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R413",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "fan speed reset": "SPR",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R284",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "damper economize flag": "H_C",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S16",
+        "ahu": "A3",
+        "site": "SOD",
+        "fan speed": "SPD"
+    },
+    {
+        "zone": "R676",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465K",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "east static pressure sensor": "E_STP"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "entering static pressure setpoint": "E_STS",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S11",
+        "ahu": "A1",
+        "site": "SOD",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "zone": "R775",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R190A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R395",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R415",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R633",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R631",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R631",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R634",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "C400B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "status sensor": "STA",
+        "pump": "P06",
+        "chiller": "C2"
+    },
+    {
+        "zone": "R340",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R420A",
+        "ahu": "A1",
+        "site": "SOD",
+        "alarm variable": "ALM"
+    },
+    {
+        "zone": "R514",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R737",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "flow rate sensor": "FLOW",
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD"
+    },
+    {
+        "zone": "R737",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A39"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "start stop sensor": "S_S",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R310",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R316",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C700C",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C700B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R577",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R336",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "day start time sensor": "D_TM",
+        "site": "SOD",
+        "zone": "R785",
+        "ahu": "A3"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "alarm variable": "A_M"
+    },
+    {
+        "zone": "R752",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R465_7",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "cooling tower": "T1",
+        "leaving status sensor": "L_STA"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R673",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "outside air temp": "OAT",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "C751",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R417",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R326",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R629",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R566",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R566",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R637",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R695",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R583",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R583",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R695",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "curtailment override variable": "CURTL",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R795",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R535",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R331",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "floor": "F5",
+        "site": "SOD",
+        "ahu": "A1",
+        "avg discharge air pressure sensor": "VAV_AV"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E04",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R773",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R773",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "pid loop P variable": "P__VR",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C700C",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "curtailment override variable": "CURTL",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C700A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R405A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R283E",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "supply air setpoint flag": "SASA_M",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R380",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R347",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R283E",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "C611",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R595",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R187",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "C400A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R615",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R313",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R563",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R313",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R625",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R625",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R377",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R665",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R684",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R684",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R377",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "daytime setpoint": "ADS",
+        "site": "SOD",
+        "zone": "R785",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R775",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R438",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R775",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R681A",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "supply fan": "S01",
+        "zone": "R183",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R776",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R330A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "return air temp": "RAT",
+        "site": "SOD",
+        "exhaust fan": "E12",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R631",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E02",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R434",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R434",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R731",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R551",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "energy meter": "KWH",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "R723",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R625",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R465E",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R393",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P02",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R252",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P03",
+        "current reading": "AMP"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R577",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R577",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R634",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P02",
+        "timer variable": "TMR"
+    },
+    {
+        "zone": "R316",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R634",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R789",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "C400C",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C400C",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R384",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R741",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R765",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "status sensor": "STA",
+        "pump": "P08",
+        "chiller": "C2"
+    },
+    {
+        "occupancy sensor": "OCCPY",
+        "site": "SOD",
+        "ahu": "A2"
+    },
+    {
+        "zone": "R498",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R287",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "C600A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R413",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P09",
+        "start stop sensor": "S_S"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R733",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R413",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "fan control unit": "FC01B",
+        "site": "SOD",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "supply fan": "S16",
+        "smoke alarm": "SMK",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "ahu": "A1",
+        "site": "SOD",
+        "exhaust fan": "E12",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "zone": "R530",
+        "site": "SOD",
+        "ahu": "A1",
+        "timer variable": "TMR"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R551",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R635",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S18",
+        "smoke alarm": "SMK",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R336",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S16",
+        "ahu": "A3",
+        "site": "SOD",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "current reading": "AMP",
+        "pump": "P02"
+    },
+    {
+        "zone": "R781",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R339",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R410B",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R313",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R330B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R330B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R784",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "C700D",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R441",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R606",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R687",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R365",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R737",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R465_4",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R465_4",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R621",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R673",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R364",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R566",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R651",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R364",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R508",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R417",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R417",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R398",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R516",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R190B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "site": "SOD",
+        "fan speed reset": "SPR",
+        "exhaust fan": "E17",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R685",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A41"
+    },
+    {
+        "zone": "R684",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R377",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R290",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "chiller": "C3_4",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P10",
+        "timer variable": "TMR"
+    },
+    {
+        "zone": "R465E",
+        "site": "SOD",
+        "reheat valve position": "RVP",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R369",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "C700A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R689",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C180",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R689",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R625",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R316",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R283E",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P01",
+        "timer variable": "TMR"
+    },
+    {
+        "zone": "C700C",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R735",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C700C",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R442",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R562A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R187",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R510",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R187",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P04",
+        "start stop sensor": "S_S"
+    },
+    {
+        "pid loop variable": "PID",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R545",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R545",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "floor": "F1",
+        "site": "SOD",
+        "ahu": "A1",
+        "avg discharge air pressure sensor": "VAV_AV"
+    },
+    {
+        "energy meter": "KWH",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "supply fan": "S18",
+        "mixed air damper": "DMP",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R517",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R517",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "site": "SOD",
+        "fan speed reset": "SPR",
+        "exhaust fan": "E13",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R776",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R776",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465_6",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P02",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "fan speed reset": "SPR",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S03B",
+        "zone": "R179",
+        "site": "SOD",
+        "start stop sensor": "S_S"
+    },
+    {
+        "air volume": "CFM",
+        "site": "SOD",
+        "exhaust fan": "E17",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R726",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R434",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R726",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "curtailment override variable": "CURTL",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "return air temp": "RAT",
+        "site": "SOD",
+        "exhaust fan": "E19",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R330A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "ahu": "A4",
+        "pid loop I variable": "I__VR"
+    },
+    {
+        "zone": "R330A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R419",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R537",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "differential pressure setpoint": "DPS"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "differential pressure reading": "DPR"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "hps": "HPS",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "differential pressure reading": "DPR"
+    },
+    {
+        "differential pressure setpoint": "DPS",
+        "chilled/condensor water loop": "C3",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A32"
+    },
+    {
+        "zone": "R781",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R781",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R316",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R577",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R449",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R381",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R339",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "cooling capacity": "TON",
+        "chilled/condensor water loop": "C1P",
+        "site": "SOD"
+    },
+    {
+        "zone": "R369",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R735",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R735",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R369",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C400C",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P09",
+        "timer variable": "TMR"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R317",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R634",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R317",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R443",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A34"
+    },
+    {
+        "zone": "R543",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A39"
+    },
+    {
+        "zone": "R395",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R395",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R430A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R515",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R639",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R337A",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R543",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C4",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R252",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R252",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R562A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R444",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "valve position": "VLV"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P01",
+        "fan speed reset": "SPR"
+    },
+    {
+        "supply air temp setpoint": "SAS",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R523",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R651",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R364",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R280",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R336",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R741",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R525",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R741",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R617",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C700D",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "status sensor": "STA",
+        "cooling tower": "T2"
+    },
+    {
+        "zone": "R337",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R273",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R652",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R342",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R682",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R721",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "return water temp": "RWT",
+        "chilled/condensor water loop": "C2",
+        "site": "SOD"
+    },
+    {
+        "zone": "R417",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R326",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "start stop sensor": "S_S",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "air volume": "CFM",
+        "site": "SOD",
+        "exhaust fan": "E19",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R252",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R779",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R563",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "supply water setpoint": "SWS",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C2"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C2",
+        "supply water temp": "SWT"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "static pressure setpoint": "STS"
+    },
+    {
+        "return air temp": "RAT",
+        "site": "SOD",
+        "exhaust fan": "E17",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R340",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "condensor water flow variable": "CND_FLOW"
+    },
+    {
+        "zone": "R330B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "reset variable": "RESET",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "pid loop variable": "PID",
+        "chilled/condensor water loop": "C2",
+        "site": "SOD"
+    },
+    {
+        "zone": "R779",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R606",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R606",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R677",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R673",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R777",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R673",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "static pressure alarm": "STPALM",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R320",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R626",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465_6",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465_6",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "mixed air temp": "MAT",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R376A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R290",
+        "site": "SOD",
+        "ahu": "A1",
+        "timer variable": "TMR"
+    },
+    {
+        "zone": "R621",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R765",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R582",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R726",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R465B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S14",
+        "site": "SOD",
+        "ahu": "A2",
+        "start stop sensor": "S_S"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R681B",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C180",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R689",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R508",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C180",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "site": "SOD",
+        "fan speed reset": "SPR",
+        "exhaust fan": "E19",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R443",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R443",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S11",
+        "smoke alarm": "SMK",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R379",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R420A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R317",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R631",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R681A",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R369",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R529",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R420A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R337A",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R337A",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R587",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R587",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R395",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R317",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A35"
+    },
+    {
+        "zone": "R420",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R545",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R524",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R384",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R517",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R345",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R776",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C600B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R631",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R337",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R787",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R337",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "status sensor": "STA",
+        "pump": "P03"
+    },
+    {
+        "zone": "R582_1",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R187A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R525",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R741",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R525",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R513",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R336",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R567",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R336",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R739",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R677",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P01",
+        "fault sensor": "FLT"
+    },
+    {
+        "zone": "R340",
+        "ahu": "A1",
+        "site": "SOD",
+        "alarm variable": "ALM"
+    },
+    {
+        "zone": "R271",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R498",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R465_4",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R544",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P04",
+        "current reading": "AMP"
+    },
+    {
+        "zone": "R544",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C2",
+        "system start/stop sensor": "SYS_S_S"
+    },
+    {
+        "zone": "R537",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R537",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "air volume": "CFM",
+        "site": "SOD",
+        "exhaust fan": "E13",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R735",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R527",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R430",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C3_4",
+        "timer variable": "TM"
+    },
+    {
+        "zone": "C300",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R652",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R652",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E01A",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R405B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R325",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R280",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R280",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R777",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R777",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R673",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S14",
+        "site": "SOD",
+        "damper economize flag": "H_C",
+        "ahu": "A2"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "floor": "F5",
+        "min discharge air pressure sensor": "VAV_MN",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R606",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R341",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R341",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R273",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R675",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R534",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "floor": "F5",
+        "site": "SOD",
+        "ahu": "A1",
+        "max discharge air pressure sensor": "VAV_MX"
+    },
+    {
+        "supply fan": "S14",
+        "ahu": "A2",
+        "site": "SOD",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "zone": "R681A",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R643",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R737",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R327",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "smoke alarm": "SMK_ALM",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "smoke alarm": "SMK_ALM",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "smoke alarm": "SMK_ALM",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "occupancy sensor": "OCCPY",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R339",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R719",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R719",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "failure flag": "FAIL",
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P03"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A37"
+    },
+    {
+        "filtered flow sensor": "F_FLOW",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R665",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "C411",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C411",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R534",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R544",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R576",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "supply fan": "S18",
+        "ahu": "A4",
+        "site": "SOD",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "ahu": "A3",
+        "fault sensor": "FLT"
+    },
+    {
+        "condensor return water temp": "CDRWT",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C2"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R576",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA"
+    },
+    {
+        "zone": "R573",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R413",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R184",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R626",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R184",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R721",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R721",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R290",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R187A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S20",
+        "ahu": "A5",
+        "site": "SOD",
+        "differential pressure status sensor": "DP_STA"
+    },
+    {
+        "zone": "R465_4",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "pump": "P",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R325",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "valve position": "VLV",
+        "cooling tower": "T1"
+    },
+    {
+        "zone": "R784",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P09",
+        "fan speed": "SPD"
+    },
+    {
+        "zone": "R430A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "site": "SOD",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "zone": "R595",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R345",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C600B",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R515",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R275",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R275",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R510",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R381",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R615",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R783",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R319",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R530",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "alarm variable": "ALM"
+    },
+    {
+        "max outside air temp": "MAX_OAT",
+        "site": "SOD"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R544",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "C300",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C300",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R184",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R527",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R527",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "C400C",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "C711",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R443",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R698",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R651",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R398",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R420A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465D",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E15",
+        "ahu": "A2",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "R420A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R627",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R765",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R320",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R765",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R352",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "hot water loop": "H1",
+        "site": "SOD",
+        "status sensor": "STA"
+    },
+    {
+        "condensor return water temp": "CDRWT",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C3_4"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R681A",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R551",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD"
+    },
+    {
+        "zone": "R341",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R525",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R513",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465D",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465D",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R617",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R513",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C400A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C500A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A35"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R643",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R643",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P03",
+        "timer variable": "TMR"
+    },
+    {
+        "zone": "C180",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R587",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "failure flag": "FAIL",
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P01"
+    },
+    {
+        "zone": "R552",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R310",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R349",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R349",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R288",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R634",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R564",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R343",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R184",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R410A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R775",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R398",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R398",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply water setpoint": "SWS",
+        "chilled/condensor water loop": "C3",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "supply water temp": "SWT"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C3",
+        "start stop sensor": "S_S"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C400B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "ahu": "A3",
+        "chilled water valve pressure": "CVP"
+    },
+    {
+        "zone": "R273",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R652",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R637",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R777",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R377",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R326",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "site": "SOD",
+        "exhaust fan": "E12",
+        "ahu": "A1",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone": "C411",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R381",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R381",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R771",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R510",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R465A",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465A",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R510",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R416",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465B",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "status sensor": "STA",
+        "air conditioner": "A38"
+    },
+    {
+        "zone": "R523",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R465_5",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465_5",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R752",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R783",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "flow rate sensor": "FLOW",
+        "chilled/condensor water loop": "C1",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R783",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C300B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "ALM",
+        "air conditioner": "A40"
+    },
+    {
+        "zone": "R440",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "nighttime setpoint": "ANS",
+        "site": "SOD",
+        "zone": "R785",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C300T",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C500B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R719",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R617",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C400B",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "site": "SOD",
+        "event sensor": "EVENT",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "R645",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R733",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R530",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P09",
+        "current reading": "AMP"
+    },
+    {
+        "zone": "R678",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R576",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R683",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R683",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R765",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R313",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R271",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465_4",
+        "discharge air pressure sensor": "VP",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "supply fan": "S16",
+        "mixed air damper": "DMP",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R545",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R352",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R352",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R773",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R576",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R465_7",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R626",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R465_7",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R275",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S18",
+        "site": "SOD",
+        "ahu": "A4",
+        "fault sensor": "FLT"
+    },
+    {
+        "zone": "R310",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R310",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S11",
+        "filtered static pressure sensor": "FSTP",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R465_3",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R389",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R395",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R500B",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "failure flag": "FAIL",
+        "hot water loop": "H1",
+        "site": "SOD",
+        "pump": "P02"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R288",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R288",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R323",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R343",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R343",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R349",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R465A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R524",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S16",
+        "site": "SOD",
+        "ahu": "A3",
+        "start stop sensor": "S_S"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R525",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R651",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S16",
+        "air volume": "CFM",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R615",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R729",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R773",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R330A",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C700A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R317",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R315",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R315",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R671",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "hot water valve position": "HVP"
+    },
+    {
+        "zone": "C611",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C611",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "fault sensor": "FLT"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R273",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R273",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R534",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "east filtered static pressure sensor": "EFSTP"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "supply water temp": "SWT"
+    },
+    {
+        "site": "SOD",
+        "fan speed reset": "SPR",
+        "exhaust fan": "E12",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R252",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C700B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "floor": "F3",
+        "site": "SOD",
+        "ahu": "A1",
+        "max discharge air pressure sensor": "VAV_MX"
+    },
+    {
+        "floor": "F1",
+        "site": "SOD",
+        "ahu": "A1",
+        "max discharge air pressure sensor": "VAV_MX"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R698",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R527",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R698",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R542",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "floor": "F1",
+        "min discharge air pressure sensor": "VAV_MN",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "floor": "F3",
+        "min discharge air pressure sensor": "VAV_MN",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "cooling tower": "T2",
+        "start stop sensor": "S_S"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R623",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone temp setpoint": "ARS",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R187A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R566",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R441",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R617",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R513",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R617",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R676",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "floor": "F4",
+        "site": "SOD",
+        "ahu": "A1",
+        "max discharge air pressure sensor": "VAV_MX"
+    },
+    {
+        "floor": "F4",
+        "min discharge air pressure sensor": "VAV_MN",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R579",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R573",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R287",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R310",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C511",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R465D",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R447",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R410A",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "smoke alarm": "SMK_ALM",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "low return air temp alarm": "LOW_RAT",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R405B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "floor": "F4",
+        "site": "SOD",
+        "ahu": "A1",
+        "avg discharge air pressure sensor": "VAV_AV"
+    },
+    {
+        "zone": "R798",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "pump": "P08",
+        "chiller": "C2",
+        "start stop sensor": "S_S"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R678",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "ahu": "A1",
+        "east static pressure sensor": "W_STP"
+    },
+    {
+        "zone": "R678",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R635",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R393",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R635",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R535",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R375",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C300T",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R626",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R465_7",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R626",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C2",
+        "site": "SOD",
+        "valve position": "VLV"
+    },
+    {
+        "zone": "R681B",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R329",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "chilled water supply temp": "CHWST",
+        "chiller": "CH1",
+        "site": "SODA"
+    },
+    {
+        "zone": "R367",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R367",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "R330B",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R323",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R771",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "R771",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R284",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "zone": "R598",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R416",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R416",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P04",
+        "timer variable": "TMR"
+    },
+    {
+        "internal building variable": "VAR",
+        "site": "SOD",
+        "building wide sensor": "BLD"
+    },
+    {
+        "zone": "R465_5",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R729",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R573",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "floor": "F2",
+        "site": "SOD",
+        "ahu": "A1",
+        "avg discharge air pressure sensor": "VAV_AV"
+    },
+    {
+        "zone": "R582",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R582",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R729",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R615",
+        "site": "SOD",
+        "ahu": "A3",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "C600B",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "pump": "P09",
+        "fan speed reset": "SPR"
+    },
+    {
+        "zone": "R535",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R331",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R635",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "supply fan": "S11",
+        "ahu": "A1",
+        "site": "SOD",
+        "fan speed": "SPD"
+    },
+    {
+        "zone": "R315",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R277",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "supply fan": "S11",
+        "site": "SOD",
+        "fan speed reset": "SPR",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "C300T",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C300",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R537",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C400C",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R683",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "C700D",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R380",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R347",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "zone": "R564",
+        "discharge air pressure sensor": "VAV",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "C500B",
+        "site": "SOD",
+        "ahu": "A1",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R671",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R781",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "C711",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R671",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "zone": "R687",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "zone": "R698",
+        "site": "SOD",
+        "ahu": "A3",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone": "R465H",
+        "pid loop gain": "AGN",
+        "ahu": "A4",
+        "site": "SOD"
+    },
+    {
+        "smoke alarm": "SMK_ALM",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R441",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R723",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R441",
+        "site": "SOD",
+        "ahu": "A4",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "smoke alarm": "SMK_ALM",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "zone": "R187A",
+        "site": "SOD",
+        "ahu": "A1",
+        "zone temp setpoint": "ARS"
+    },
+    {
+        "chilled/condensor water loop": "C1S",
+        "site": "SOD",
+        "pump": "P03",
+        "fan speed": "SPD"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R187A",
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "chilled/condensor water loop": "C1",
+        "site": "SOD",
+        "chiller": "C3",
+        "alarm variable": "ALM"
+    },
+    {
+        "zone": "R683",
+        "pid loop gain": "AGN",
+        "ahu": "A3",
+        "site": "SOD"
+    },
+    {
+        "site": "SOD",
+        "status sensor": "STA"
+    },
+    {
+        "site": "SOD",
+        "ahu": "A1"
+    },
+    {
+        "vav reheat discharge air pressure sensor": "RVAV",
+        "zone": "R587",
+        "site": "SOD",
+        "ahu": "A3"
+    },
+    {
+        "zone": "R544",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    },
+    {
+        "chilled/condensor water loop": "C3",
+        "site": "SOD",
+        "alarm variable": "A_M"
+    },
+    {
+        "zone": "R343",
+        "site": "SOD",
+        "ahu": "A4",
+        "temp setpoint off": "ASO"
+    },
+    {
+        "zone temp sensor": "ART",
+        "zone": "R633",
+        "site": "SOD",
+        "ahu": "A4"
+    },
+    {
+        "zone": "C400A",
+        "pid loop gain": "AGN",
+        "ahu": "A1",
+        "site": "SOD"
+    }
+]

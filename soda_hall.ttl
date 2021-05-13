@@ -1,0 +1,2741 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix soda: <urn:soda_hall#> .
+
+soda:A1 a brick:AHU ;
+    brick:feeds soda:VAV_C180,
+        soda:VAV_C300,
+        soda:VAV_C300B,
+        soda:VAV_C400A,
+        soda:VAV_C400B,
+        soda:VAV_C400C,
+        soda:VAV_C500A,
+        soda:VAV_C500B,
+        soda:VAV_C600A,
+        soda:VAV_C600B,
+        soda:VAV_C700A,
+        soda:VAV_C700B,
+        soda:VAV_C700C,
+        soda:VAV_C700D,
+        soda:VAV_R184,
+        soda:VAV_R187,
+        soda:VAV_R187A,
+        soda:VAV_R190A,
+        soda:VAV_R190B,
+        soda:VAV_R252,
+        soda:VAV_R271,
+        soda:VAV_R273,
+        soda:VAV_R275,
+        soda:VAV_R277,
+        soda:VAV_R280,
+        soda:VAV_R283E,
+        soda:VAV_R284,
+        soda:VAV_R287,
+        soda:VAV_R288,
+        soda:VAV_R290,
+        soda:VAV_R310,
+        soda:VAV_R316,
+        soda:VAV_R320,
+        soda:VAV_R326,
+        soda:VAV_R330A,
+        soda:VAV_R330B,
+        soda:VAV_R336,
+        soda:VAV_R340,
+        soda:VAV_R342,
+        soda:VAV_R352,
+        soda:VAV_R364,
+        soda:VAV_R369,
+        soda:VAV_R376A,
+        soda:VAV_R380,
+        soda:VAV_R384,
+        soda:VAV_R398,
+        soda:VAV_R405A,
+        soda:VAV_R405B,
+        soda:VAV_R410A,
+        soda:VAV_R410B,
+        soda:VAV_R416,
+        soda:VAV_R420,
+        soda:VAV_R420A,
+        soda:VAV_R430,
+        soda:VAV_R430A,
+        soda:VAV_R434,
+        soda:VAV_R438,
+        soda:VAV_R440,
+        soda:VAV_R442,
+        soda:VAV_R444,
+        soda:VAV_R452,
+        soda:VAV_R465B,
+        soda:VAV_R465D,
+        soda:VAV_R465_6,
+        soda:VAV_R498,
+        soda:VAV_R500A,
+        soda:VAV_R500B,
+        soda:VAV_R508,
+        soda:VAV_R510,
+        soda:VAV_R514,
+        soda:VAV_R516,
+        soda:VAV_R524,
+        soda:VAV_R530,
+        soda:VAV_R534,
+        soda:VAV_R542,
+        soda:VAV_R544,
+        soda:VAV_R552,
+        soda:VAV_R562A,
+        soda:VAV_R564,
+        soda:VAV_R566,
+        soda:VAV_R582,
+        soda:VAV_R582_1,
+        soda:VAV_R582_2,
+        soda:VAV_R598,
+        soda:VAV_R600A,
+        soda:VAV_R600B,
+        soda:VAV_R606,
+        soda:VAV_R626,
+        soda:VAV_R634,
+        soda:VAV_R652,
+        soda:VAV_R676,
+        soda:VAV_R678,
+        soda:VAV_R682,
+        soda:VAV_R684,
+        soda:VAV_R726,
+        soda:VAV_R734,
+        soda:VAV_R776,
+        soda:VAV_R784 ;
+    brick:hasPart soda:E12,
+        soda:E12_filter,
+        soda:E13,
+        soda:E13_filter,
+        soda:S11,
+        soda:S11_filter .
+
+soda:A2 a brick:AHU ;
+    brick:feeds soda:VAV_R306 ;
+    brick:hasPart soda:E15,
+        soda:S14 .
+
+soda:A3 a brick:AHU ;
+    brick:feeds soda:VAV_C411,
+        soda:VAV_C511,
+        soda:VAV_C611,
+        soda:VAV_C711,
+        soda:VAV_R311,
+        soda:VAV_R313,
+        soda:VAV_R315,
+        soda:VAV_R317,
+        soda:VAV_R319,
+        soda:VAV_R321,
+        soda:VAV_R323,
+        soda:VAV_R325,
+        soda:VAV_R327,
+        soda:VAV_R329,
+        soda:VAV_R331,
+        soda:VAV_R381,
+        soda:VAV_R383,
+        soda:VAV_R385,
+        soda:VAV_R389,
+        soda:VAV_R393,
+        soda:VAV_R395,
+        soda:VAV_R411,
+        soda:VAV_R413,
+        soda:VAV_R415,
+        soda:VAV_R417,
+        soda:VAV_R419,
+        soda:VAV_R421,
+        soda:VAV_R465K,
+        soda:VAV_R465_4,
+        soda:VAV_R465_5,
+        soda:VAV_R465_7,
+        soda:VAV_R513,
+        soda:VAV_R515,
+        soda:VAV_R517,
+        soda:VAV_R523,
+        soda:VAV_R525,
+        soda:VAV_R527,
+        soda:VAV_R529,
+        soda:VAV_R579,
+        soda:VAV_R583,
+        soda:VAV_R5831,
+        soda:VAV_R587,
+        soda:VAV_R5871,
+        soda:VAV_R595,
+        soda:VAV_R615,
+        soda:VAV_R617,
+        soda:VAV_R621,
+        soda:VAV_R623,
+        soda:VAV_R625,
+        soda:VAV_R627,
+        soda:VAV_R629,
+        soda:VAV_R681A,
+        soda:VAV_R683,
+        soda:VAV_R685,
+        soda:VAV_R687,
+        soda:VAV_R689,
+        soda:VAV_R695,
+        soda:VAV_R698,
+        soda:VAV_R719,
+        soda:VAV_R721,
+        soda:VAV_R723,
+        soda:VAV_R725,
+        soda:VAV_R727,
+        soda:VAV_R729,
+        soda:VAV_R781,
+        soda:VAV_R783,
+        soda:VAV_R785,
+        soda:VAV_R787,
+        soda:VAV_R789,
+        soda:VAV_R795,
+        soda:VAV_R798 ;
+    brick:hasPart soda:E17,
+        soda:S16 .
+
+soda:A4 a brick:AHU ;
+    brick:feeds soda:VAV_C300T,
+        soda:VAV_C751,
+        soda:VAV_R333,
+        soda:VAV_R337,
+        soda:VAV_R337A,
+        soda:VAV_R339,
+        soda:VAV_R341,
+        soda:VAV_R343,
+        soda:VAV_R345,
+        soda:VAV_R347,
+        soda:VAV_R349,
+        soda:VAV_R365,
+        soda:VAV_R367,
+        soda:VAV_R369,
+        soda:VAV_R373,
+        soda:VAV_R375,
+        soda:VAV_R377,
+        soda:VAV_R379,
+        soda:VAV_R441,
+        soda:VAV_R443,
+        soda:VAV_R445,
+        soda:VAV_R447,
+        soda:VAV_R449,
+        soda:VAV_R465A,
+        soda:VAV_R465C,
+        soda:VAV_R465E,
+        soda:VAV_R465H,
+        soda:VAV_R465_3,
+        soda:VAV_R531,
+        soda:VAV_R533,
+        soda:VAV_R535,
+        soda:VAV_R537,
+        soda:VAV_R543,
+        soda:VAV_R545,
+        soda:VAV_R551,
+        soda:VAV_R5511,
+        soda:VAV_R563,
+        soda:VAV_R567,
+        soda:VAV_R573,
+        soda:VAV_R576,
+        soda:VAV_R577,
+        soda:VAV_R580,
+        soda:VAV_R631,
+        soda:VAV_R633,
+        soda:VAV_R635,
+        soda:VAV_R637,
+        soda:VAV_R639,
+        soda:VAV_R643,
+        soda:VAV_R645,
+        soda:VAV_R651,
+        soda:VAV_R665,
+        soda:VAV_R671,
+        soda:VAV_R673,
+        soda:VAV_R675,
+        soda:VAV_R677,
+        soda:VAV_R681B,
+        soda:VAV_R731,
+        soda:VAV_R733,
+        soda:VAV_R735,
+        soda:VAV_R737,
+        soda:VAV_R739,
+        soda:VAV_R741,
+        soda:VAV_R752,
+        soda:VAV_R765,
+        soda:VAV_R771,
+        soda:VAV_R773,
+        soda:VAV_R775,
+        soda:VAV_R777,
+        soda:VAV_R779,
+        soda:VAV_zone_337A ;
+    brick:hasPart soda:E19,
+        soda:S18 .
+
+soda:A5 a brick:AHU ;
+    brick:feeds soda:VAV_R800A ;
+    brick:hasPart soda:S20 .
+
+soda:ALM a brick:Alarm .
+
+soda:ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:A_M a brick:Alarm .
+
+soda:CFM a brick:Supply_Air_Flow_Sensor .
+
+soda:DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:F_CFM a brick:Discharge_Air_Flow_Sensor .
+
+soda:RAT a brick:Return_Air_Temperature_Sensor .
+
+soda:SAS a brick:Supply_Air_Temperature_Setpoint .
+
+soda:SAT a brick:Supply_Air_Temperature_Sensor .
+
+soda:SMK a brick:Smoke_Detection_Alarm .
+
+soda:SMK_ALM a brick:Smoke_Detection_Alarm .
+
+soda:SOD a brick:Site .
+
+soda:SODA a brick:Site .
+
+soda:SPD a brick:Speed_Command .
+
+soda:SPR a brick:Speed_Reset_Command .
+
+soda:STA a brick:Fan_Status .
+
+soda:STP a brick:Static_Pressure_Sensor .
+
+soda:STPALM a brick:Pressure_Alarm .
+
+soda:STS a brick:Static_Pressure_Setpoint .
+
+soda:S_S a brick:Start_Stop_Command .
+
+soda:VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R179 a brick:VAV ;
+    brick:feeds soda:R179 .
+
+soda:VAV_R181 a brick:VAV ;
+    brick:feeds soda:R181 .
+
+soda:VAV_R183 a brick:VAV ;
+    brick:feeds soda:R183 .
+
+soda:VP a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:C180 a brick:HVAC_Zone .
+
+soda:C300 a brick:HVAC_Zone .
+
+soda:C300B a brick:HVAC_Zone .
+
+soda:C300T a brick:HVAC_Zone .
+
+soda:C400A a brick:HVAC_Zone .
+
+soda:C400B a brick:HVAC_Zone .
+
+soda:C400C a brick:HVAC_Zone .
+
+soda:C411 a brick:HVAC_Zone .
+
+soda:C500A a brick:HVAC_Zone .
+
+soda:C500B a brick:HVAC_Zone .
+
+soda:C511 a brick:HVAC_Zone .
+
+soda:C600A a brick:HVAC_Zone .
+
+soda:C600B a brick:HVAC_Zone .
+
+soda:C611 a brick:HVAC_Zone .
+
+soda:C700A a brick:HVAC_Zone .
+
+soda:C700B a brick:HVAC_Zone .
+
+soda:C700C a brick:HVAC_Zone .
+
+soda:C700D a brick:HVAC_Zone .
+
+soda:C711 a brick:HVAC_Zone .
+
+soda:C751 a brick:HVAC_Zone .
+
+soda:E12 a brick:Exhaust_Fan ;
+    brick:feeds soda:E12_filter ;
+    brick:hasPoint soda:E12_CFM,
+        soda:E12_DP_STA,
+        soda:E12_F_CFM,
+        soda:E12_RAT,
+        soda:E12_SPR,
+        soda:E12_S_S .
+
+soda:E12_CFM a brick:Supply_Air_Flow_Sensor .
+
+soda:E12_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:E12_F_CFM a brick:Discharge_Air_Flow_Sensor .
+
+soda:E12_RAT a brick:Return_Air_Temperature_Sensor .
+
+soda:E12_SPR a brick:Speed_Reset_Command .
+
+soda:E12_S_S a brick:Start_Stop_Command .
+
+soda:E13 a brick:Exhaust_Fan ;
+    brick:feeds soda:E13_filter ;
+    brick:hasPoint soda:E13_CFM,
+        soda:E13_DP_STA,
+        soda:E13_F_CFM,
+        soda:E13_SPR,
+        soda:E13_S_S .
+
+soda:E13_CFM a brick:Supply_Air_Flow_Sensor .
+
+soda:E13_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:E13_F_CFM a brick:Discharge_Air_Flow_Sensor .
+
+soda:E13_SPR a brick:Speed_Reset_Command .
+
+soda:E13_S_S a brick:Start_Stop_Command .
+
+soda:E15 a brick:Exhaust_Fan ;
+    brick:hasPoint soda:E15_DP_STA,
+        soda:E15_RAT,
+        soda:E15_S_S .
+
+soda:E15_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:E15_RAT a brick:Return_Air_Temperature_Sensor .
+
+soda:E15_S_S a brick:Start_Stop_Command .
+
+soda:E17 a brick:Exhaust_Fan ;
+    brick:hasPoint soda:E17_CFM,
+        soda:E17_DP_STA,
+        soda:E17_RAT,
+        soda:E17_SPR,
+        soda:E17_S_S .
+
+soda:E17_CFM a brick:Supply_Air_Flow_Sensor .
+
+soda:E17_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:E17_RAT a brick:Return_Air_Temperature_Sensor .
+
+soda:E17_SPR a brick:Speed_Reset_Command .
+
+soda:E17_S_S a brick:Start_Stop_Command .
+
+soda:E19 a brick:Exhaust_Fan ;
+    brick:hasPoint soda:E19_CFM,
+        soda:E19_DP_STA,
+        soda:E19_RAT,
+        soda:E19_SPR,
+        soda:E19_S_S .
+
+soda:E19_CFM a brick:Supply_Air_Flow_Sensor .
+
+soda:E19_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:E19_RAT a brick:Return_Air_Temperature_Sensor .
+
+soda:E19_SPR a brick:Speed_Reset_Command .
+
+soda:E19_S_S a brick:Start_Stop_Command .
+
+soda:R179 a brick:HVAC_Zone .
+
+soda:R181 a brick:HVAC_Zone .
+
+soda:R183 a brick:HVAC_Zone .
+
+soda:R184 a brick:HVAC_Zone .
+
+soda:R187 a brick:HVAC_Zone .
+
+soda:R187A a brick:HVAC_Zone .
+
+soda:R190A a brick:HVAC_Zone .
+
+soda:R190B a brick:HVAC_Zone .
+
+soda:R252 a brick:HVAC_Zone .
+
+soda:R271 a brick:HVAC_Zone .
+
+soda:R273 a brick:HVAC_Zone .
+
+soda:R275 a brick:HVAC_Zone .
+
+soda:R277 a brick:HVAC_Zone .
+
+soda:R280 a brick:HVAC_Zone .
+
+soda:R283E a brick:HVAC_Zone .
+
+soda:R284 a brick:HVAC_Zone .
+
+soda:R287 a brick:HVAC_Zone .
+
+soda:R288 a brick:HVAC_Zone .
+
+soda:R290 a brick:HVAC_Zone .
+
+soda:R306 a brick:HVAC_Zone .
+
+soda:R310 a brick:HVAC_Zone .
+
+soda:R311 a brick:HVAC_Zone .
+
+soda:R313 a brick:HVAC_Zone .
+
+soda:R315 a brick:HVAC_Zone .
+
+soda:R316 a brick:HVAC_Zone .
+
+soda:R317 a brick:HVAC_Zone .
+
+soda:R319 a brick:HVAC_Zone .
+
+soda:R320 a brick:HVAC_Zone .
+
+soda:R321 a brick:HVAC_Zone .
+
+soda:R323 a brick:HVAC_Zone .
+
+soda:R325 a brick:HVAC_Zone .
+
+soda:R326 a brick:HVAC_Zone .
+
+soda:R327 a brick:HVAC_Zone .
+
+soda:R329 a brick:HVAC_Zone .
+
+soda:R330A a brick:HVAC_Zone .
+
+soda:R330B a brick:HVAC_Zone .
+
+soda:R331 a brick:HVAC_Zone .
+
+soda:R333 a brick:HVAC_Zone .
+
+soda:R336 a brick:HVAC_Zone .
+
+soda:R337 a brick:HVAC_Zone .
+
+soda:R337A a brick:HVAC_Zone .
+
+soda:R339 a brick:HVAC_Zone .
+
+soda:R340 a brick:HVAC_Zone .
+
+soda:R341 a brick:HVAC_Zone .
+
+soda:R342 a brick:HVAC_Zone .
+
+soda:R343 a brick:HVAC_Zone .
+
+soda:R345 a brick:HVAC_Zone .
+
+soda:R347 a brick:HVAC_Zone .
+
+soda:R349 a brick:HVAC_Zone .
+
+soda:R352 a brick:HVAC_Zone .
+
+soda:R364 a brick:HVAC_Zone .
+
+soda:R365 a brick:HVAC_Zone .
+
+soda:R367 a brick:HVAC_Zone .
+
+soda:R369 a brick:HVAC_Zone .
+
+soda:R373 a brick:HVAC_Zone .
+
+soda:R375 a brick:HVAC_Zone .
+
+soda:R376A a brick:HVAC_Zone .
+
+soda:R377 a brick:HVAC_Zone .
+
+soda:R379 a brick:HVAC_Zone .
+
+soda:R380 a brick:HVAC_Zone .
+
+soda:R381 a brick:HVAC_Zone .
+
+soda:R383 a brick:HVAC_Zone .
+
+soda:R384 a brick:HVAC_Zone .
+
+soda:R385 a brick:HVAC_Zone .
+
+soda:R389 a brick:HVAC_Zone .
+
+soda:R393 a brick:HVAC_Zone .
+
+soda:R395 a brick:HVAC_Zone .
+
+soda:R398 a brick:HVAC_Zone .
+
+soda:R405A a brick:HVAC_Zone .
+
+soda:R405B a brick:HVAC_Zone .
+
+soda:R410A a brick:HVAC_Zone .
+
+soda:R410B a brick:HVAC_Zone .
+
+soda:R411 a brick:HVAC_Zone .
+
+soda:R413 a brick:HVAC_Zone .
+
+soda:R415 a brick:HVAC_Zone .
+
+soda:R416 a brick:HVAC_Zone .
+
+soda:R417 a brick:HVAC_Zone .
+
+soda:R419 a brick:HVAC_Zone .
+
+soda:R420 a brick:HVAC_Zone .
+
+soda:R420A a brick:HVAC_Zone .
+
+soda:R421 a brick:HVAC_Zone .
+
+soda:R430 a brick:HVAC_Zone .
+
+soda:R430A a brick:HVAC_Zone .
+
+soda:R434 a brick:HVAC_Zone .
+
+soda:R438 a brick:HVAC_Zone .
+
+soda:R440 a brick:HVAC_Zone .
+
+soda:R441 a brick:HVAC_Zone .
+
+soda:R442 a brick:HVAC_Zone .
+
+soda:R443 a brick:HVAC_Zone .
+
+soda:R444 a brick:HVAC_Zone .
+
+soda:R445 a brick:HVAC_Zone .
+
+soda:R447 a brick:HVAC_Zone .
+
+soda:R449 a brick:HVAC_Zone .
+
+soda:R452 a brick:HVAC_Zone .
+
+soda:R465A a brick:HVAC_Zone .
+
+soda:R465B a brick:HVAC_Zone .
+
+soda:R465C a brick:HVAC_Zone .
+
+soda:R465D a brick:HVAC_Zone .
+
+soda:R465E a brick:HVAC_Zone .
+
+soda:R465H a brick:HVAC_Zone .
+
+soda:R465K a brick:HVAC_Zone .
+
+soda:R465_3 a brick:HVAC_Zone .
+
+soda:R465_4 a brick:HVAC_Zone .
+
+soda:R465_5 a brick:HVAC_Zone .
+
+soda:R465_6 a brick:HVAC_Zone .
+
+soda:R465_7 a brick:HVAC_Zone .
+
+soda:R498 a brick:HVAC_Zone .
+
+soda:R500A a brick:HVAC_Zone .
+
+soda:R500B a brick:HVAC_Zone .
+
+soda:R508 a brick:HVAC_Zone .
+
+soda:R510 a brick:HVAC_Zone .
+
+soda:R513 a brick:HVAC_Zone .
+
+soda:R514 a brick:HVAC_Zone .
+
+soda:R515 a brick:HVAC_Zone .
+
+soda:R516 a brick:HVAC_Zone .
+
+soda:R517 a brick:HVAC_Zone .
+
+soda:R523 a brick:HVAC_Zone .
+
+soda:R524 a brick:HVAC_Zone .
+
+soda:R525 a brick:HVAC_Zone .
+
+soda:R527 a brick:HVAC_Zone .
+
+soda:R529 a brick:HVAC_Zone .
+
+soda:R530 a brick:HVAC_Zone .
+
+soda:R531 a brick:HVAC_Zone .
+
+soda:R533 a brick:HVAC_Zone .
+
+soda:R534 a brick:HVAC_Zone .
+
+soda:R535 a brick:HVAC_Zone .
+
+soda:R537 a brick:HVAC_Zone .
+
+soda:R542 a brick:HVAC_Zone .
+
+soda:R543 a brick:HVAC_Zone .
+
+soda:R544 a brick:HVAC_Zone .
+
+soda:R545 a brick:HVAC_Zone .
+
+soda:R551 a brick:HVAC_Zone .
+
+soda:R5511 a brick:HVAC_Zone .
+
+soda:R552 a brick:HVAC_Zone .
+
+soda:R562A a brick:HVAC_Zone .
+
+soda:R563 a brick:HVAC_Zone .
+
+soda:R564 a brick:HVAC_Zone .
+
+soda:R566 a brick:HVAC_Zone .
+
+soda:R567 a brick:HVAC_Zone .
+
+soda:R573 a brick:HVAC_Zone .
+
+soda:R576 a brick:HVAC_Zone .
+
+soda:R577 a brick:HVAC_Zone .
+
+soda:R579 a brick:HVAC_Zone .
+
+soda:R580 a brick:HVAC_Zone .
+
+soda:R582 a brick:HVAC_Zone .
+
+soda:R582_1 a brick:HVAC_Zone .
+
+soda:R582_2 a brick:HVAC_Zone .
+
+soda:R583 a brick:HVAC_Zone .
+
+soda:R5831 a brick:HVAC_Zone .
+
+soda:R587 a brick:HVAC_Zone .
+
+soda:R5871 a brick:HVAC_Zone .
+
+soda:R595 a brick:HVAC_Zone .
+
+soda:R598 a brick:HVAC_Zone .
+
+soda:R600A a brick:HVAC_Zone .
+
+soda:R600B a brick:HVAC_Zone .
+
+soda:R606 a brick:HVAC_Zone .
+
+soda:R615 a brick:HVAC_Zone .
+
+soda:R617 a brick:HVAC_Zone .
+
+soda:R621 a brick:HVAC_Zone .
+
+soda:R623 a brick:HVAC_Zone .
+
+soda:R625 a brick:HVAC_Zone .
+
+soda:R626 a brick:HVAC_Zone .
+
+soda:R627 a brick:HVAC_Zone .
+
+soda:R629 a brick:HVAC_Zone .
+
+soda:R631 a brick:HVAC_Zone .
+
+soda:R633 a brick:HVAC_Zone .
+
+soda:R634 a brick:HVAC_Zone .
+
+soda:R635 a brick:HVAC_Zone .
+
+soda:R637 a brick:HVAC_Zone .
+
+soda:R639 a brick:HVAC_Zone .
+
+soda:R643 a brick:HVAC_Zone .
+
+soda:R645 a brick:HVAC_Zone .
+
+soda:R651 a brick:HVAC_Zone .
+
+soda:R652 a brick:HVAC_Zone .
+
+soda:R665 a brick:HVAC_Zone .
+
+soda:R671 a brick:HVAC_Zone .
+
+soda:R673 a brick:HVAC_Zone .
+
+soda:R675 a brick:HVAC_Zone .
+
+soda:R676 a brick:HVAC_Zone .
+
+soda:R677 a brick:HVAC_Zone .
+
+soda:R678 a brick:HVAC_Zone .
+
+soda:R681A a brick:HVAC_Zone .
+
+soda:R681B a brick:HVAC_Zone .
+
+soda:R682 a brick:HVAC_Zone .
+
+soda:R683 a brick:HVAC_Zone .
+
+soda:R684 a brick:HVAC_Zone .
+
+soda:R685 a brick:HVAC_Zone .
+
+soda:R687 a brick:HVAC_Zone .
+
+soda:R689 a brick:HVAC_Zone .
+
+soda:R695 a brick:HVAC_Zone .
+
+soda:R698 a brick:HVAC_Zone .
+
+soda:R719 a brick:HVAC_Zone .
+
+soda:R721 a brick:HVAC_Zone .
+
+soda:R723 a brick:HVAC_Zone .
+
+soda:R725 a brick:HVAC_Zone .
+
+soda:R726 a brick:HVAC_Zone .
+
+soda:R727 a brick:HVAC_Zone .
+
+soda:R729 a brick:HVAC_Zone .
+
+soda:R731 a brick:HVAC_Zone .
+
+soda:R733 a brick:HVAC_Zone .
+
+soda:R734 a brick:HVAC_Zone .
+
+soda:R735 a brick:HVAC_Zone .
+
+soda:R737 a brick:HVAC_Zone .
+
+soda:R739 a brick:HVAC_Zone .
+
+soda:R741 a brick:HVAC_Zone .
+
+soda:R752 a brick:HVAC_Zone .
+
+soda:R765 a brick:HVAC_Zone .
+
+soda:R771 a brick:HVAC_Zone .
+
+soda:R773 a brick:HVAC_Zone .
+
+soda:R775 a brick:HVAC_Zone .
+
+soda:R776 a brick:HVAC_Zone .
+
+soda:R777 a brick:HVAC_Zone .
+
+soda:R779 a brick:HVAC_Zone .
+
+soda:R781 a brick:HVAC_Zone .
+
+soda:R783 a brick:HVAC_Zone .
+
+soda:R784 a brick:HVAC_Zone .
+
+soda:R785 a brick:HVAC_Zone .
+
+soda:R787 a brick:HVAC_Zone .
+
+soda:R789 a brick:HVAC_Zone .
+
+soda:R795 a brick:HVAC_Zone .
+
+soda:R798 a brick:HVAC_Zone .
+
+soda:R800A a brick:HVAC_Zone .
+
+soda:Reheat_Valve_RVP_R465C a brick:Reheat_Valve ;
+    brick:hasPoint soda:RVP .
+
+soda:Reheat_Valve_RVP_R465E a brick:Reheat_Valve ;
+    brick:hasPoint soda:RVP .
+
+soda:Reheat_Valve_RVP_R465H a brick:Reheat_Valve ;
+    brick:hasPoint soda:RVP .
+
+soda:Reheat_Valve_RVP_R465_5 a brick:Reheat_Valve ;
+    brick:hasPoint soda:RVP .
+
+soda:S11 a brick:Supply_Fan ;
+    brick:feeds soda:S11_filter ;
+    brick:hasPoint soda:S11_CFM,
+        soda:S11_DP_STA,
+        soda:S11_F_CFM,
+        soda:S11_SAS,
+        soda:S11_SAT,
+        soda:S11_SMK,
+        soda:S11_SPD,
+        soda:S11_SPR,
+        soda:S11_STP,
+        soda:S11_STPALM,
+        soda:S11_STS,
+        soda:S11_S_S .
+
+soda:S11_CFM a brick:Supply_Air_Flow_Sensor .
+
+soda:S11_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:S11_F_CFM a brick:Discharge_Air_Flow_Sensor .
+
+soda:S11_SAS a brick:Supply_Air_Temperature_Setpoint .
+
+soda:S11_SAT a brick:Supply_Air_Temperature_Sensor .
+
+soda:S11_SMK a brick:Smoke_Detection_Alarm .
+
+soda:S11_SPD a brick:Speed_Command .
+
+soda:S11_SPR a brick:Speed_Reset_Command .
+
+soda:S11_STP a brick:Static_Pressure_Sensor .
+
+soda:S11_STPALM a brick:Pressure_Alarm .
+
+soda:S11_STS a brick:Static_Pressure_Setpoint .
+
+soda:S11_S_S a brick:Start_Stop_Command .
+
+soda:S14 a brick:Supply_Fan ;
+    brick:hasPoint soda:S14_DP_STA,
+        soda:S14_SAS,
+        soda:S14_SAT,
+        soda:S14_SMK,
+        soda:S14_S_S .
+
+soda:S14_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:S14_SAS a brick:Supply_Air_Temperature_Setpoint .
+
+soda:S14_SAT a brick:Supply_Air_Temperature_Sensor .
+
+soda:S14_SMK a brick:Smoke_Detection_Alarm .
+
+soda:S14_S_S a brick:Start_Stop_Command .
+
+soda:S16 a brick:Supply_Fan ;
+    brick:hasPoint soda:S16_CFM,
+        soda:S16_DP_STA,
+        soda:S16_SAS,
+        soda:S16_SAT,
+        soda:S16_SMK,
+        soda:S16_SPD,
+        soda:S16_SPR,
+        soda:S16_STP,
+        soda:S16_STPALM,
+        soda:S16_STS,
+        soda:S16_S_S .
+
+soda:S16_CFM a brick:Supply_Air_Flow_Sensor .
+
+soda:S16_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:S16_SAS a brick:Supply_Air_Temperature_Setpoint .
+
+soda:S16_SAT a brick:Supply_Air_Temperature_Sensor .
+
+soda:S16_SMK a brick:Smoke_Detection_Alarm .
+
+soda:S16_SPD a brick:Speed_Command .
+
+soda:S16_SPR a brick:Speed_Reset_Command .
+
+soda:S16_STP a brick:Static_Pressure_Sensor .
+
+soda:S16_STPALM a brick:Pressure_Alarm .
+
+soda:S16_STS a brick:Static_Pressure_Setpoint .
+
+soda:S16_S_S a brick:Start_Stop_Command .
+
+soda:S18 a brick:Supply_Fan ;
+    brick:hasPoint soda:S18_CFM,
+        soda:S18_DP_STA,
+        soda:S18_SAS,
+        soda:S18_SAT,
+        soda:S18_SMK,
+        soda:S18_SPR,
+        soda:S18_STP,
+        soda:S18_STPALM,
+        soda:S18_STS,
+        soda:S18_S_S .
+
+soda:S18_CFM a brick:Supply_Air_Flow_Sensor .
+
+soda:S18_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:S18_SAS a brick:Supply_Air_Temperature_Setpoint .
+
+soda:S18_SAT a brick:Supply_Air_Temperature_Sensor .
+
+soda:S18_SMK a brick:Smoke_Detection_Alarm .
+
+soda:S18_SPR a brick:Speed_Reset_Command .
+
+soda:S18_STP a brick:Static_Pressure_Sensor .
+
+soda:S18_STPALM a brick:Pressure_Alarm .
+
+soda:S18_STS a brick:Static_Pressure_Setpoint .
+
+soda:S18_S_S a brick:Start_Stop_Command .
+
+soda:S20 a brick:Supply_Fan ;
+    brick:hasPoint soda:S20_DP_STA,
+        soda:S20_S_S .
+
+soda:S20_DP_STA a brick:Differential_Pressure_Sensor .
+
+soda:S20_S_S a brick:Start_Stop_Command .
+
+soda:VAV_C180 a brick:VAV ;
+    brick:feeds soda:C180 ;
+    brick:hasPoint soda:VAV_C180_ARS,
+        soda:VAV_C180_VAV .
+
+soda:VAV_C180_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C180_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_C300 a brick:VAV ;
+    brick:feeds soda:C300 ;
+    brick:hasPoint soda:VAV_C300_ARS,
+        soda:VAV_C300_VAV .
+
+soda:VAV_C300B a brick:VAV ;
+    brick:feeds soda:C300B ;
+    brick:hasPoint soda:VAV_C300B_ARS,
+        soda:VAV_C300B_VAV .
+
+soda:VAV_C300B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C300B_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_C300T a brick:VAV ;
+    brick:feeds soda:C300T ;
+    brick:hasPoint soda:VAV_C300T_ARS .
+
+soda:VAV_C300T_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C300_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C300_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_C400A a brick:VAV ;
+    brick:feeds soda:C400A ;
+    brick:hasPoint soda:VAV_C400A_ARS .
+
+soda:VAV_C400A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C400B a brick:VAV ;
+    brick:feeds soda:C400B ;
+    brick:hasPoint soda:VAV_C400B_ARS .
+
+soda:VAV_C400B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C400C a brick:VAV ;
+    brick:feeds soda:C400C ;
+    brick:hasPoint soda:VAV_C400C_ARS,
+        soda:VAV_C400C_VAV .
+
+soda:VAV_C400C_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C400C_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_C411 a brick:VAV ;
+    brick:feeds soda:C411 ;
+    brick:hasPoint soda:VAV_C411_ARS .
+
+soda:VAV_C411_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C500A a brick:VAV ;
+    brick:feeds soda:C500A ;
+    brick:hasPoint soda:VAV_C500A_ARS .
+
+soda:VAV_C500A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C500B a brick:VAV ;
+    brick:feeds soda:C500B ;
+    brick:hasPoint soda:VAV_C500B_ARS .
+
+soda:VAV_C500B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C511 a brick:VAV ;
+    brick:feeds soda:C511 ;
+    brick:hasPoint soda:VAV_C511_ARS .
+
+soda:VAV_C511_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C600A a brick:VAV ;
+    brick:feeds soda:C600A ;
+    brick:hasPoint soda:VAV_C600A_ARS .
+
+soda:VAV_C600A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C600B a brick:VAV ;
+    brick:feeds soda:C600B ;
+    brick:hasPoint soda:VAV_C600B_ARS .
+
+soda:VAV_C600B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C611 a brick:VAV ;
+    brick:feeds soda:C611 ;
+    brick:hasPoint soda:VAV_C611_ARS .
+
+soda:VAV_C611_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C700A a brick:VAV ;
+    brick:feeds soda:C700A ;
+    brick:hasPoint soda:VAV_C700A_ARS .
+
+soda:VAV_C700A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C700B a brick:VAV ;
+    brick:feeds soda:C700B ;
+    brick:hasPoint soda:VAV_C700B_ARS .
+
+soda:VAV_C700B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C700C a brick:VAV ;
+    brick:feeds soda:C700C ;
+    brick:hasPoint soda:VAV_C700C_ARS .
+
+soda:VAV_C700C_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C700D a brick:VAV ;
+    brick:feeds soda:C700D ;
+    brick:hasPoint soda:VAV_C700D_ARS .
+
+soda:VAV_C700D_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C711 a brick:VAV ;
+    brick:feeds soda:C711 ;
+    brick:hasPoint soda:VAV_C711_ARS .
+
+soda:VAV_C711_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_C751 a brick:VAV ;
+    brick:feeds soda:C751 ;
+    brick:hasPoint soda:VAV_C751_ARS .
+
+soda:VAV_C751_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R184 a brick:VAV ;
+    brick:feeds soda:R184 ;
+    brick:hasPoint soda:VAV_R184_ARS,
+        soda:VAV_R184_VAV .
+
+soda:VAV_R184_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R184_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R187 a brick:VAV ;
+    brick:feeds soda:R187 ;
+    brick:hasPoint soda:VAV_R187_ARS,
+        soda:VAV_R187_VAV .
+
+soda:VAV_R187A a brick:VAV ;
+    brick:feeds soda:R187A ;
+    brick:hasPoint soda:VAV_R187A_ARS,
+        soda:VAV_R187A_VAV .
+
+soda:VAV_R187A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R187A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R187_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R187_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R190A a brick:VAV ;
+    brick:feeds soda:R190A ;
+    brick:hasPoint soda:VAV_R190A_ARS,
+        soda:VAV_R190A_VAV .
+
+soda:VAV_R190A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R190A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R190B a brick:VAV ;
+    brick:feeds soda:R190B ;
+    brick:hasPoint soda:VAV_R190B_ARS,
+        soda:VAV_R190B_VAV .
+
+soda:VAV_R190B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R190B_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R252 a brick:VAV ;
+    brick:feeds soda:R252 ;
+    brick:hasPoint soda:VAV_R252_ARS,
+        soda:VAV_R252_VAV .
+
+soda:VAV_R252_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R252_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R271 a brick:VAV ;
+    brick:feeds soda:R271 ;
+    brick:hasPoint soda:VAV_R271_ARS,
+        soda:VAV_R271_VAV .
+
+soda:VAV_R271_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R271_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R273 a brick:VAV ;
+    brick:feeds soda:R273 ;
+    brick:hasPoint soda:VAV_R273_ARS,
+        soda:VAV_R273_VAV .
+
+soda:VAV_R273_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R273_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R275 a brick:VAV ;
+    brick:feeds soda:R275 ;
+    brick:hasPoint soda:VAV_R275_ARS,
+        soda:VAV_R275_VAV .
+
+soda:VAV_R275_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R275_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R277 a brick:VAV ;
+    brick:feeds soda:R277 ;
+    brick:hasPoint soda:VAV_R277_ARS,
+        soda:VAV_R277_VAV .
+
+soda:VAV_R277_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R277_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R280 a brick:VAV ;
+    brick:feeds soda:R280 ;
+    brick:hasPoint soda:VAV_R280_ARS,
+        soda:VAV_R280_VAV .
+
+soda:VAV_R280_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R280_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R283E a brick:VAV ;
+    brick:feeds soda:R283E ;
+    brick:hasPoint soda:VAV_R283E_ARS,
+        soda:VAV_R283E_VAV .
+
+soda:VAV_R283E_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R283E_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R284 a brick:VAV ;
+    brick:feeds soda:R284 ;
+    brick:hasPoint soda:VAV_R284_ARS,
+        soda:VAV_R284_VAV .
+
+soda:VAV_R284_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R284_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R287 a brick:VAV ;
+    brick:feeds soda:R287 ;
+    brick:hasPoint soda:VAV_R287_ALM,
+        soda:VAV_R287_ARS,
+        soda:VAV_R287_VAV .
+
+soda:VAV_R287_ALM a brick:Alarm .
+
+soda:VAV_R287_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R287_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R288 a brick:VAV ;
+    brick:feeds soda:R288 ;
+    brick:hasPoint soda:VAV_R288_ALM,
+        soda:VAV_R288_ARS,
+        soda:VAV_R288_VAV .
+
+soda:VAV_R288_ALM a brick:Alarm .
+
+soda:VAV_R288_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R288_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R290 a brick:VAV ;
+    brick:feeds soda:R290 ;
+    brick:hasPoint soda:VAV_R290_ALM,
+        soda:VAV_R290_ARS,
+        soda:VAV_R290_VAV .
+
+soda:VAV_R290_ALM a brick:Alarm .
+
+soda:VAV_R290_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R290_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R306 a brick:VAV ;
+    brick:feeds soda:R306 ;
+    brick:hasPoint soda:VAV_R306_ARS .
+
+soda:VAV_R306_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R310 a brick:VAV ;
+    brick:feeds soda:R310 ;
+    brick:hasPoint soda:VAV_R310_ARS,
+        soda:VAV_R310_VAV .
+
+soda:VAV_R310_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R310_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R311 a brick:VAV ;
+    brick:feeds soda:R311 ;
+    brick:hasPoint soda:VAV_R311_ARS .
+
+soda:VAV_R311_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R313 a brick:VAV ;
+    brick:feeds soda:R313 ;
+    brick:hasPoint soda:VAV_R313_ARS .
+
+soda:VAV_R313_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R315 a brick:VAV ;
+    brick:feeds soda:R315 ;
+    brick:hasPoint soda:VAV_R315_ARS .
+
+soda:VAV_R315_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R316 a brick:VAV ;
+    brick:feeds soda:R316 ;
+    brick:hasPoint soda:VAV_R316_ARS,
+        soda:VAV_R316_VAV .
+
+soda:VAV_R316_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R316_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R317 a brick:VAV ;
+    brick:feeds soda:R317 ;
+    brick:hasPoint soda:VAV_R317_ARS .
+
+soda:VAV_R317_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R319 a brick:VAV ;
+    brick:feeds soda:R319 ;
+    brick:hasPoint soda:VAV_R319_ARS .
+
+soda:VAV_R319_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R320 a brick:VAV ;
+    brick:feeds soda:R320 ;
+    brick:hasPoint soda:VAV_R320_ARS,
+        soda:VAV_R320_VAV .
+
+soda:VAV_R320_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R320_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R321 a brick:VAV ;
+    brick:feeds soda:R321 ;
+    brick:hasPoint soda:VAV_R321_ARS .
+
+soda:VAV_R321_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R323 a brick:VAV ;
+    brick:feeds soda:R323 ;
+    brick:hasPoint soda:VAV_R323_ARS .
+
+soda:VAV_R323_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R325 a brick:VAV ;
+    brick:feeds soda:R325 ;
+    brick:hasPoint soda:VAV_R325_ARS .
+
+soda:VAV_R325_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R326 a brick:VAV ;
+    brick:feeds soda:R326 ;
+    brick:hasPoint soda:VAV_R326_ARS,
+        soda:VAV_R326_VAV .
+
+soda:VAV_R326_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R326_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R327 a brick:VAV ;
+    brick:feeds soda:R327 ;
+    brick:hasPoint soda:VAV_R327_ARS .
+
+soda:VAV_R327_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R329 a brick:VAV ;
+    brick:feeds soda:R329 ;
+    brick:hasPoint soda:VAV_R329_ARS .
+
+soda:VAV_R329_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R330A a brick:VAV ;
+    brick:feeds soda:R330A ;
+    brick:hasPoint soda:VAV_R330A_ARS,
+        soda:VAV_R330A_VAV .
+
+soda:VAV_R330A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R330A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R330B a brick:VAV ;
+    brick:feeds soda:R330B ;
+    brick:hasPoint soda:VAV_R330B_ARS,
+        soda:VAV_R330B_VAV .
+
+soda:VAV_R330B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R330B_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R331 a brick:VAV ;
+    brick:feeds soda:R331 ;
+    brick:hasPoint soda:VAV_R331_ARS .
+
+soda:VAV_R331_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R333 a brick:VAV ;
+    brick:feeds soda:R333 ;
+    brick:hasPoint soda:VAV_R333_ARS .
+
+soda:VAV_R333_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R336 a brick:VAV ;
+    brick:feeds soda:R336 ;
+    brick:hasPoint soda:VAV_R336_ARS,
+        soda:VAV_R336_VAV .
+
+soda:VAV_R336_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R336_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R337 a brick:VAV ;
+    brick:feeds soda:R337 ;
+    brick:hasPoint soda:VAV_R337_ARS .
+
+soda:VAV_R337A a brick:VAV ;
+    brick:feeds soda:R337A ;
+    brick:hasPoint soda:VAV_R337A_ARS .
+
+soda:VAV_R337A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R337_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R339 a brick:VAV ;
+    brick:feeds soda:R339 ;
+    brick:hasPoint soda:VAV_R339_ARS .
+
+soda:VAV_R339_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R340 a brick:VAV ;
+    brick:feeds soda:R340 ;
+    brick:hasPoint soda:VAV_R340_ALM,
+        soda:VAV_R340_ARS,
+        soda:VAV_R340_VAV .
+
+soda:VAV_R340_ALM a brick:Alarm .
+
+soda:VAV_R340_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R340_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R341 a brick:VAV ;
+    brick:feeds soda:R341 ;
+    brick:hasPoint soda:VAV_R341_ARS .
+
+soda:VAV_R341_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R342 a brick:VAV ;
+    brick:feeds soda:R342 ;
+    brick:hasPoint soda:VAV_R342_ARS,
+        soda:VAV_R342_VAV .
+
+soda:VAV_R342_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R342_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R343 a brick:VAV ;
+    brick:feeds soda:R343 ;
+    brick:hasPoint soda:VAV_R343_ARS .
+
+soda:VAV_R343_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R345 a brick:VAV ;
+    brick:feeds soda:R345 ;
+    brick:hasPoint soda:VAV_R345_ARS .
+
+soda:VAV_R345_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R347 a brick:VAV ;
+    brick:feeds soda:R347 ;
+    brick:hasPoint soda:VAV_R347_ARS .
+
+soda:VAV_R347_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R349 a brick:VAV ;
+    brick:feeds soda:R349 ;
+    brick:hasPoint soda:VAV_R349_ARS .
+
+soda:VAV_R349_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R352 a brick:VAV ;
+    brick:feeds soda:R352 ;
+    brick:hasPoint soda:VAV_R352_ARS,
+        soda:VAV_R352_VAV .
+
+soda:VAV_R352_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R352_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R364 a brick:VAV ;
+    brick:feeds soda:R364 ;
+    brick:hasPoint soda:VAV_R364_ARS,
+        soda:VAV_R364_VAV .
+
+soda:VAV_R364_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R364_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R365 a brick:VAV ;
+    brick:feeds soda:R365 ;
+    brick:hasPoint soda:VAV_R365_ARS .
+
+soda:VAV_R365_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R367 a brick:VAV ;
+    brick:feeds soda:R367 ;
+    brick:hasPoint soda:VAV_R367_ARS .
+
+soda:VAV_R367_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R369_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R373 a brick:VAV ;
+    brick:feeds soda:R373 ;
+    brick:hasPoint soda:VAV_R373_ARS .
+
+soda:VAV_R373_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R375 a brick:VAV ;
+    brick:feeds soda:R375 ;
+    brick:hasPoint soda:VAV_R375_ARS .
+
+soda:VAV_R375_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R376A a brick:VAV ;
+    brick:feeds soda:R376A ;
+    brick:hasPoint soda:VAV_R376A_ARS,
+        soda:VAV_R376A_VAV .
+
+soda:VAV_R376A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R376A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R377 a brick:VAV ;
+    brick:feeds soda:R377 ;
+    brick:hasPoint soda:VAV_R377_ARS .
+
+soda:VAV_R377_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R379 a brick:VAV ;
+    brick:feeds soda:R379 ;
+    brick:hasPoint soda:VAV_R379_ARS .
+
+soda:VAV_R379_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R380 a brick:VAV ;
+    brick:feeds soda:R380 ;
+    brick:hasPoint soda:VAV_R380_ARS,
+        soda:VAV_R380_VAV .
+
+soda:VAV_R380_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R380_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R381 a brick:VAV ;
+    brick:feeds soda:R381 ;
+    brick:hasPoint soda:VAV_R381_ARS .
+
+soda:VAV_R381_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R383 a brick:VAV ;
+    brick:feeds soda:R383 ;
+    brick:hasPoint soda:VAV_R383_ARS .
+
+soda:VAV_R383_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R384 a brick:VAV ;
+    brick:feeds soda:R384 ;
+    brick:hasPoint soda:VAV_R384_ARS,
+        soda:VAV_R384_VAV .
+
+soda:VAV_R384_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R384_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R385 a brick:VAV ;
+    brick:feeds soda:R385 ;
+    brick:hasPoint soda:VAV_R385_ARS .
+
+soda:VAV_R385_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R389 a brick:VAV ;
+    brick:feeds soda:R389 ;
+    brick:hasPoint soda:VAV_R389_ARS .
+
+soda:VAV_R389_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R393 a brick:VAV ;
+    brick:feeds soda:R393 ;
+    brick:hasPoint soda:VAV_R393_ARS .
+
+soda:VAV_R393_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R395 a brick:VAV ;
+    brick:feeds soda:R395 ;
+    brick:hasPoint soda:VAV_R395_ARS .
+
+soda:VAV_R395_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R398 a brick:VAV ;
+    brick:feeds soda:R398 ;
+    brick:hasPoint soda:VAV_R398_ARS,
+        soda:VAV_R398_VAV .
+
+soda:VAV_R398_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R398_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R405A a brick:VAV ;
+    brick:feeds soda:R405A ;
+    brick:hasPoint soda:VAV_R405A_ARS,
+        soda:VAV_R405A_VAV .
+
+soda:VAV_R405A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R405A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R405B a brick:VAV ;
+    brick:feeds soda:R405B ;
+    brick:hasPoint soda:VAV_R405B_ARS,
+        soda:VAV_R405B_VAV .
+
+soda:VAV_R405B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R405B_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R410A a brick:VAV ;
+    brick:feeds soda:R410A ;
+    brick:hasPoint soda:VAV_R410A_ARS,
+        soda:VAV_R410A_VAV .
+
+soda:VAV_R410A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R410A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R410B a brick:VAV ;
+    brick:feeds soda:R410B ;
+    brick:hasPoint soda:VAV_R410B_ARS,
+        soda:VAV_R410B_VAV .
+
+soda:VAV_R410B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R410B_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R411 a brick:VAV ;
+    brick:feeds soda:R411 .
+
+soda:VAV_R413 a brick:VAV ;
+    brick:feeds soda:R413 ;
+    brick:hasPoint soda:VAV_R413_ARS .
+
+soda:VAV_R413_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R415 a brick:VAV ;
+    brick:feeds soda:R415 ;
+    brick:hasPoint soda:VAV_R415_ARS .
+
+soda:VAV_R415_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R416 a brick:VAV ;
+    brick:feeds soda:R416 ;
+    brick:hasPoint soda:VAV_R416_ARS,
+        soda:VAV_R416_VAV .
+
+soda:VAV_R416_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R416_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R417 a brick:VAV ;
+    brick:feeds soda:R417 ;
+    brick:hasPoint soda:VAV_R417_ARS .
+
+soda:VAV_R417_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R419 a brick:VAV ;
+    brick:feeds soda:R419 ;
+    brick:hasPoint soda:VAV_R419_ARS .
+
+soda:VAV_R419_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R420 a brick:VAV ;
+    brick:feeds soda:R420 ;
+    brick:hasPoint soda:VAV_R420_ARS,
+        soda:VAV_R420_VAV .
+
+soda:VAV_R420A a brick:VAV ;
+    brick:feeds soda:R420A ;
+    brick:hasPoint soda:VAV_R420A_ALM,
+        soda:VAV_R420A_ARS,
+        soda:VAV_R420A_VAV .
+
+soda:VAV_R420A_ALM a brick:Alarm .
+
+soda:VAV_R420A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R420A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R420_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R420_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R421 a brick:VAV ;
+    brick:feeds soda:R421 ;
+    brick:hasPoint soda:VAV_R421_ARS .
+
+soda:VAV_R421_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R430 a brick:VAV ;
+    brick:feeds soda:R430 ;
+    brick:hasPoint soda:VAV_R430_ARS,
+        soda:VAV_R430_VAV .
+
+soda:VAV_R430A a brick:VAV ;
+    brick:feeds soda:R430A ;
+    brick:hasPoint soda:VAV_R430A_ARS,
+        soda:VAV_R430A_VAV .
+
+soda:VAV_R430A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R430A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R430_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R430_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R434 a brick:VAV ;
+    brick:feeds soda:R434 ;
+    brick:hasPoint soda:VAV_R434_ARS .
+
+soda:VAV_R434_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R438 a brick:VAV ;
+    brick:feeds soda:R438 ;
+    brick:hasPoint soda:VAV_R438_ARS .
+
+soda:VAV_R438_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R440 a brick:VAV ;
+    brick:feeds soda:R440 ;
+    brick:hasPoint soda:VAV_R440_ARS,
+        soda:VAV_R440_VAV .
+
+soda:VAV_R440_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R440_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R441 a brick:VAV ;
+    brick:feeds soda:R441 ;
+    brick:hasPoint soda:VAV_R441_ARS .
+
+soda:VAV_R441_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R442 a brick:VAV ;
+    brick:feeds soda:R442 ;
+    brick:hasPoint soda:VAV_R442_ARS,
+        soda:VAV_R442_VAV .
+
+soda:VAV_R442_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R442_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R443 a brick:VAV ;
+    brick:feeds soda:R443 ;
+    brick:hasPoint soda:VAV_R443_ARS .
+
+soda:VAV_R443_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R444 a brick:VAV ;
+    brick:feeds soda:R444 ;
+    brick:hasPoint soda:VAV_R444_ARS,
+        soda:VAV_R444_VAV .
+
+soda:VAV_R444_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R444_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R445 a brick:VAV ;
+    brick:feeds soda:R445 ;
+    brick:hasPoint soda:VAV_R445_ARS .
+
+soda:VAV_R445_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R447 a brick:VAV ;
+    brick:feeds soda:R447 ;
+    brick:hasPoint soda:VAV_R447_ARS .
+
+soda:VAV_R447_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R449 a brick:VAV ;
+    brick:feeds soda:R449 ;
+    brick:hasPoint soda:VAV_R449_ARS .
+
+soda:VAV_R449_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R452 a brick:VAV ;
+    brick:feeds soda:R452 .
+
+soda:VAV_R465A a brick:VAV ;
+    brick:feeds soda:R465A ;
+    brick:hasPoint soda:VAV_R465A_ARS,
+        soda:VAV_R465A_VAV .
+
+soda:VAV_R465A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R465B a brick:VAV ;
+    brick:feeds soda:R465B ;
+    brick:hasPoint soda:VAV_R465B_ARS,
+        soda:VAV_R465B_VAV .
+
+soda:VAV_R465B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465B_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R465C a brick:VAV ;
+    brick:feeds soda:R465C ;
+    brick:hasPart soda:Reheat_Valve_RVP_R465C ;
+    brick:hasPoint soda:VAV_R465C_ARS .
+
+soda:VAV_R465C_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465D a brick:VAV ;
+    brick:feeds soda:R465D ;
+    brick:hasPoint soda:VAV_R465D_ARS,
+        soda:VAV_R465D_VAV .
+
+soda:VAV_R465D_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465D_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R465E a brick:VAV ;
+    brick:feeds soda:R465E ;
+    brick:hasPart soda:Reheat_Valve_RVP_R465E ;
+    brick:hasPoint soda:VAV_R465E_ARS .
+
+soda:VAV_R465E_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465H a brick:VAV ;
+    brick:feeds soda:R465H ;
+    brick:hasPart soda:Reheat_Valve_RVP_R465H ;
+    brick:hasPoint soda:VAV_R465H_ARS .
+
+soda:VAV_R465H_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465K a brick:VAV ;
+    brick:feeds soda:R465K ;
+    brick:hasPoint soda:VAV_R465K_ARS,
+        soda:VAV_R465K_VAV .
+
+soda:VAV_R465K_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465K_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R465_3 a brick:VAV ;
+    brick:feeds soda:R465_3 ;
+    brick:hasPoint soda:VAV_R465_3_ARS,
+        soda:VAV_R465_3_VP .
+
+soda:VAV_R465_3_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465_3_VP a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R465_4 a brick:VAV ;
+    brick:feeds soda:R465_4 ;
+    brick:hasPoint soda:VAV_R465_4_ARS,
+        soda:VAV_R465_4_VP .
+
+soda:VAV_R465_4_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465_4_VP a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R465_5 a brick:VAV ;
+    brick:feeds soda:R465_5 ;
+    brick:hasPart soda:Reheat_Valve_RVP_R465_5 ;
+    brick:hasPoint soda:VAV_R465_5_ARS .
+
+soda:VAV_R465_5_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465_6 a brick:VAV ;
+    brick:feeds soda:R465_6 ;
+    brick:hasPoint soda:VAV_R465_6_ARS,
+        soda:VAV_R465_6_VP .
+
+soda:VAV_R465_6_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465_6_VP a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R465_7 a brick:VAV ;
+    brick:feeds soda:R465_7 ;
+    brick:hasPoint soda:VAV_R465_7_ARS,
+        soda:VAV_R465_7_VP .
+
+soda:VAV_R465_7_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R465_7_VP a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R498 a brick:VAV ;
+    brick:feeds soda:R498 ;
+    brick:hasPoint soda:VAV_R498_ARS,
+        soda:VAV_R498_VAV .
+
+soda:VAV_R498_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R498_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R500A a brick:VAV ;
+    brick:feeds soda:R500A ;
+    brick:hasPoint soda:VAV_R500A_VAV .
+
+soda:VAV_R500A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R500B a brick:VAV ;
+    brick:feeds soda:R500B ;
+    brick:hasPoint soda:VAV_R500B_VAV .
+
+soda:VAV_R500B_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R508 a brick:VAV ;
+    brick:feeds soda:R508 ;
+    brick:hasPoint soda:VAV_R508_ARS,
+        soda:VAV_R508_VAV .
+
+soda:VAV_R508_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R508_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R510 a brick:VAV ;
+    brick:feeds soda:R510 ;
+    brick:hasPoint soda:VAV_R510_ARS,
+        soda:VAV_R510_VAV .
+
+soda:VAV_R510_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R510_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R513 a brick:VAV ;
+    brick:feeds soda:R513 ;
+    brick:hasPoint soda:VAV_R513_ARS .
+
+soda:VAV_R513_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R514 a brick:VAV ;
+    brick:feeds soda:R514 ;
+    brick:hasPoint soda:VAV_R514_ARS,
+        soda:VAV_R514_VAV .
+
+soda:VAV_R514_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R514_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R515 a brick:VAV ;
+    brick:feeds soda:R515 ;
+    brick:hasPoint soda:VAV_R515_ARS .
+
+soda:VAV_R515_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R516 a brick:VAV ;
+    brick:feeds soda:R516 ;
+    brick:hasPoint soda:VAV_R516_ARS,
+        soda:VAV_R516_VAV .
+
+soda:VAV_R516_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R516_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R517 a brick:VAV ;
+    brick:feeds soda:R517 ;
+    brick:hasPoint soda:VAV_R517_ARS .
+
+soda:VAV_R517_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R523 a brick:VAV ;
+    brick:feeds soda:R523 ;
+    brick:hasPoint soda:VAV_R523_ARS .
+
+soda:VAV_R523_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R524 a brick:VAV ;
+    brick:feeds soda:R524 ;
+    brick:hasPoint soda:VAV_R524_ARS,
+        soda:VAV_R524_VAV .
+
+soda:VAV_R524_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R524_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R525 a brick:VAV ;
+    brick:feeds soda:R525 ;
+    brick:hasPoint soda:VAV_R525_ARS .
+
+soda:VAV_R525_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R527 a brick:VAV ;
+    brick:feeds soda:R527 ;
+    brick:hasPoint soda:VAV_R527_ARS .
+
+soda:VAV_R527_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R529 a brick:VAV ;
+    brick:feeds soda:R529 ;
+    brick:hasPoint soda:VAV_R529_ARS .
+
+soda:VAV_R529_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R530 a brick:VAV ;
+    brick:feeds soda:R530 ;
+    brick:hasPoint soda:VAV_R530_ALM,
+        soda:VAV_R530_ARS,
+        soda:VAV_R530_VAV .
+
+soda:VAV_R530_ALM a brick:Alarm .
+
+soda:VAV_R530_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R530_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R531 a brick:VAV ;
+    brick:feeds soda:R531 ;
+    brick:hasPoint soda:VAV_R531_ARS .
+
+soda:VAV_R531_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R533 a brick:VAV ;
+    brick:feeds soda:R533 ;
+    brick:hasPoint soda:VAV_R533_ARS .
+
+soda:VAV_R533_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R534 a brick:VAV ;
+    brick:feeds soda:R534 ;
+    brick:hasPoint soda:VAV_R534_ARS,
+        soda:VAV_R534_VAV .
+
+soda:VAV_R534_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R534_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R535 a brick:VAV ;
+    brick:feeds soda:R535 ;
+    brick:hasPoint soda:VAV_R535_ARS .
+
+soda:VAV_R535_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R537 a brick:VAV ;
+    brick:feeds soda:R537 ;
+    brick:hasPoint soda:VAV_R537_ARS .
+
+soda:VAV_R537_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R542 a brick:VAV ;
+    brick:feeds soda:R542 ;
+    brick:hasPoint soda:VAV_R542_ARS,
+        soda:VAV_R542_VAV .
+
+soda:VAV_R542_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R542_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R543 a brick:VAV ;
+    brick:feeds soda:R543 ;
+    brick:hasPoint soda:VAV_R543_ARS .
+
+soda:VAV_R543_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R544 a brick:VAV ;
+    brick:feeds soda:R544 ;
+    brick:hasPoint soda:VAV_R544_ARS,
+        soda:VAV_R544_VAV .
+
+soda:VAV_R544_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R544_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R545 a brick:VAV ;
+    brick:feeds soda:R545 ;
+    brick:hasPoint soda:VAV_R545_ARS .
+
+soda:VAV_R545_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R551 a brick:VAV ;
+    brick:feeds soda:R551 ;
+    brick:hasPoint soda:VAV_R551_ARS .
+
+soda:VAV_R5511 a brick:VAV ;
+    brick:feeds soda:R5511 .
+
+soda:VAV_R551_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R552 a brick:VAV ;
+    brick:feeds soda:R552 ;
+    brick:hasPoint soda:VAV_R552_ARS,
+        soda:VAV_R552_VAV .
+
+soda:VAV_R552_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R552_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R562A a brick:VAV ;
+    brick:feeds soda:R562A ;
+    brick:hasPoint soda:VAV_R562A_ARS,
+        soda:VAV_R562A_VAV .
+
+soda:VAV_R562A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R562A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R563 a brick:VAV ;
+    brick:feeds soda:R563 ;
+    brick:hasPoint soda:VAV_R563_ARS .
+
+soda:VAV_R563_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R564 a brick:VAV ;
+    brick:feeds soda:R564 ;
+    brick:hasPoint soda:VAV_R564_ARS,
+        soda:VAV_R564_VAV .
+
+soda:VAV_R564_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R564_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R566 a brick:VAV ;
+    brick:feeds soda:R566 ;
+    brick:hasPoint soda:VAV_R566_ARS,
+        soda:VAV_R566_VAV .
+
+soda:VAV_R566_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R566_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R567 a brick:VAV ;
+    brick:feeds soda:R567 ;
+    brick:hasPoint soda:VAV_R567_ARS .
+
+soda:VAV_R567_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R573 a brick:VAV ;
+    brick:feeds soda:R573 ;
+    brick:hasPoint soda:VAV_R573_ARS .
+
+soda:VAV_R573_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R576 a brick:VAV ;
+    brick:feeds soda:R576 ;
+    brick:hasPoint soda:VAV_R576_ARS .
+
+soda:VAV_R576_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R577 a brick:VAV ;
+    brick:feeds soda:R577 ;
+    brick:hasPoint soda:VAV_R577_ARS .
+
+soda:VAV_R577_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R579 a brick:VAV ;
+    brick:feeds soda:R579 ;
+    brick:hasPoint soda:VAV_R579_ARS .
+
+soda:VAV_R579_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R580 a brick:VAV ;
+    brick:feeds soda:R580 ;
+    brick:hasPoint soda:VAV_R580_ARS .
+
+soda:VAV_R580_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R582 a brick:VAV ;
+    brick:feeds soda:R582 ;
+    brick:hasPoint soda:VAV_R582_ARS,
+        soda:VAV_R582_VAV .
+
+soda:VAV_R582_1 a brick:VAV ;
+    brick:feeds soda:R582_1 ;
+    brick:hasPoint soda:VAV_R582_1_VAV .
+
+soda:VAV_R582_1_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R582_2 a brick:VAV ;
+    brick:feeds soda:R582_2 ;
+    brick:hasPoint soda:VAV_R582_2_VAV .
+
+soda:VAV_R582_2_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R582_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R582_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R583 a brick:VAV ;
+    brick:feeds soda:R583 ;
+    brick:hasPoint soda:VAV_R583_ARS .
+
+soda:VAV_R5831 a brick:VAV ;
+    brick:feeds soda:R5831 .
+
+soda:VAV_R583_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R587 a brick:VAV ;
+    brick:feeds soda:R587 ;
+    brick:hasPoint soda:VAV_R587_ARS .
+
+soda:VAV_R5871 a brick:VAV ;
+    brick:feeds soda:R5871 .
+
+soda:VAV_R587_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R595 a brick:VAV ;
+    brick:feeds soda:R595 ;
+    brick:hasPoint soda:VAV_R595_ARS .
+
+soda:VAV_R595_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R598 a brick:VAV ;
+    brick:feeds soda:R598 ;
+    brick:hasPoint soda:VAV_R598_ARS,
+        soda:VAV_R598_VAV .
+
+soda:VAV_R598_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R598_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R600A a brick:VAV ;
+    brick:feeds soda:R600A ;
+    brick:hasPoint soda:VAV_R600A_VAV .
+
+soda:VAV_R600A_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R600B a brick:VAV ;
+    brick:feeds soda:R600B ;
+    brick:hasPoint soda:VAV_R600B_VAV .
+
+soda:VAV_R600B_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R606 a brick:VAV ;
+    brick:feeds soda:R606 ;
+    brick:hasPoint soda:VAV_R606_ARS,
+        soda:VAV_R606_VAV .
+
+soda:VAV_R606_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R606_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R615 a brick:VAV ;
+    brick:feeds soda:R615 ;
+    brick:hasPoint soda:VAV_R615_ARS .
+
+soda:VAV_R615_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R617 a brick:VAV ;
+    brick:feeds soda:R617 ;
+    brick:hasPoint soda:VAV_R617_ARS .
+
+soda:VAV_R617_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R621 a brick:VAV ;
+    brick:feeds soda:R621 ;
+    brick:hasPoint soda:VAV_R621_ARS .
+
+soda:VAV_R621_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R623 a brick:VAV ;
+    brick:feeds soda:R623 ;
+    brick:hasPoint soda:VAV_R623_ARS .
+
+soda:VAV_R623_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R625 a brick:VAV ;
+    brick:feeds soda:R625 ;
+    brick:hasPoint soda:VAV_R625_ARS .
+
+soda:VAV_R625_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R626 a brick:VAV ;
+    brick:feeds soda:R626 ;
+    brick:hasPoint soda:VAV_R626_ARS,
+        soda:VAV_R626_VAV .
+
+soda:VAV_R626_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R626_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R627 a brick:VAV ;
+    brick:feeds soda:R627 ;
+    brick:hasPoint soda:VAV_R627_ARS .
+
+soda:VAV_R627_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R629 a brick:VAV ;
+    brick:feeds soda:R629 ;
+    brick:hasPoint soda:VAV_R629_ARS .
+
+soda:VAV_R629_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R631 a brick:VAV ;
+    brick:feeds soda:R631 ;
+    brick:hasPoint soda:VAV_R631_ARS .
+
+soda:VAV_R631_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R633 a brick:VAV ;
+    brick:feeds soda:R633 ;
+    brick:hasPoint soda:VAV_R633_ARS .
+
+soda:VAV_R633_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R634 a brick:VAV ;
+    brick:feeds soda:R634 ;
+    brick:hasPoint soda:VAV_R634_ARS,
+        soda:VAV_R634_VAV .
+
+soda:VAV_R634_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R634_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R635 a brick:VAV ;
+    brick:feeds soda:R635 ;
+    brick:hasPoint soda:VAV_R635_ARS .
+
+soda:VAV_R635_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R637 a brick:VAV ;
+    brick:feeds soda:R637 ;
+    brick:hasPoint soda:VAV_R637_ARS .
+
+soda:VAV_R637_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R639 a brick:VAV ;
+    brick:feeds soda:R639 ;
+    brick:hasPoint soda:VAV_R639_ARS .
+
+soda:VAV_R639_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R643 a brick:VAV ;
+    brick:feeds soda:R643 ;
+    brick:hasPoint soda:VAV_R643_ARS .
+
+soda:VAV_R643_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R645 a brick:VAV ;
+    brick:feeds soda:R645 ;
+    brick:hasPoint soda:VAV_R645_ARS .
+
+soda:VAV_R645_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R651 a brick:VAV ;
+    brick:feeds soda:R651 ;
+    brick:hasPoint soda:VAV_R651_ARS .
+
+soda:VAV_R651_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R652 a brick:VAV ;
+    brick:feeds soda:R652 ;
+    brick:hasPoint soda:VAV_R652_ARS,
+        soda:VAV_R652_VAV .
+
+soda:VAV_R652_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R652_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R665 a brick:VAV ;
+    brick:feeds soda:R665 ;
+    brick:hasPoint soda:VAV_R665_ARS .
+
+soda:VAV_R665_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R671 a brick:VAV ;
+    brick:feeds soda:R671 ;
+    brick:hasPoint soda:VAV_R671_ARS .
+
+soda:VAV_R671_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R673 a brick:VAV ;
+    brick:feeds soda:R673 ;
+    brick:hasPoint soda:VAV_R673_ARS .
+
+soda:VAV_R673_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R675 a brick:VAV ;
+    brick:feeds soda:R675 ;
+    brick:hasPoint soda:VAV_R675_ARS .
+
+soda:VAV_R675_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R676 a brick:VAV ;
+    brick:feeds soda:R676 ;
+    brick:hasPoint soda:VAV_R676_ARS,
+        soda:VAV_R676_VAV .
+
+soda:VAV_R676_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R676_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R677 a brick:VAV ;
+    brick:feeds soda:R677 ;
+    brick:hasPoint soda:VAV_R677_ARS .
+
+soda:VAV_R677_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R678 a brick:VAV ;
+    brick:feeds soda:R678 ;
+    brick:hasPoint soda:VAV_R678_ARS,
+        soda:VAV_R678_VAV .
+
+soda:VAV_R678_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R678_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R681A a brick:VAV ;
+    brick:feeds soda:R681A ;
+    brick:hasPoint soda:VAV_R681A_ARS .
+
+soda:VAV_R681A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R681B a brick:VAV ;
+    brick:feeds soda:R681B ;
+    brick:hasPoint soda:VAV_R681B_ARS .
+
+soda:VAV_R681B_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R682 a brick:VAV ;
+    brick:feeds soda:R682 ;
+    brick:hasPoint soda:VAV_R682_ARS,
+        soda:VAV_R682_VAV .
+
+soda:VAV_R682_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R682_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R683 a brick:VAV ;
+    brick:feeds soda:R683 ;
+    brick:hasPoint soda:VAV_R683_ARS .
+
+soda:VAV_R683_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R684 a brick:VAV ;
+    brick:feeds soda:R684 ;
+    brick:hasPoint soda:VAV_R684_ARS,
+        soda:VAV_R684_VAV .
+
+soda:VAV_R684_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R684_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R685 a brick:VAV ;
+    brick:feeds soda:R685 ;
+    brick:hasPoint soda:VAV_R685_ARS .
+
+soda:VAV_R685_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R687 a brick:VAV ;
+    brick:feeds soda:R687 ;
+    brick:hasPoint soda:VAV_R687_ARS .
+
+soda:VAV_R687_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R689 a brick:VAV ;
+    brick:feeds soda:R689 ;
+    brick:hasPoint soda:VAV_R689_ARS .
+
+soda:VAV_R689_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R695 a brick:VAV ;
+    brick:feeds soda:R695 ;
+    brick:hasPoint soda:VAV_R695_ARS .
+
+soda:VAV_R695_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R698 a brick:VAV ;
+    brick:feeds soda:R698 ;
+    brick:hasPoint soda:VAV_R698_ARS,
+        soda:VAV_R698_VAV .
+
+soda:VAV_R698_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R698_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R719 a brick:VAV ;
+    brick:feeds soda:R719 ;
+    brick:hasPoint soda:VAV_R719_ARS .
+
+soda:VAV_R719_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R721 a brick:VAV ;
+    brick:feeds soda:R721 ;
+    brick:hasPoint soda:VAV_R721_ARS .
+
+soda:VAV_R721_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R723 a brick:VAV ;
+    brick:feeds soda:R723 ;
+    brick:hasPoint soda:VAV_R723_ARS .
+
+soda:VAV_R723_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R725 a brick:VAV ;
+    brick:feeds soda:R725 ;
+    brick:hasPoint soda:VAV_R725_ARS .
+
+soda:VAV_R725_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R726 a brick:VAV ;
+    brick:feeds soda:R726 ;
+    brick:hasPoint soda:VAV_R726_ARS,
+        soda:VAV_R726_VAV .
+
+soda:VAV_R726_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R726_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R727 a brick:VAV ;
+    brick:feeds soda:R727 ;
+    brick:hasPoint soda:VAV_R727_ARS .
+
+soda:VAV_R727_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R729 a brick:VAV ;
+    brick:feeds soda:R729 ;
+    brick:hasPoint soda:VAV_R729_ARS .
+
+soda:VAV_R729_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R731 a brick:VAV ;
+    brick:feeds soda:R731 ;
+    brick:hasPoint soda:VAV_R731_ARS .
+
+soda:VAV_R731_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R733 a brick:VAV ;
+    brick:feeds soda:R733 ;
+    brick:hasPoint soda:VAV_R733_ARS .
+
+soda:VAV_R733_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R734 a brick:VAV ;
+    brick:feeds soda:R734 ;
+    brick:hasPoint soda:VAV_R734_ARS,
+        soda:VAV_R734_VAV .
+
+soda:VAV_R734_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R734_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R735 a brick:VAV ;
+    brick:feeds soda:R735 ;
+    brick:hasPoint soda:VAV_R735_ARS .
+
+soda:VAV_R735_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R737 a brick:VAV ;
+    brick:feeds soda:R737 ;
+    brick:hasPoint soda:VAV_R737_ARS .
+
+soda:VAV_R737_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R739 a brick:VAV ;
+    brick:feeds soda:R739 ;
+    brick:hasPoint soda:VAV_R739_ARS .
+
+soda:VAV_R739_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R741 a brick:VAV ;
+    brick:feeds soda:R741 ;
+    brick:hasPoint soda:VAV_R741_ARS .
+
+soda:VAV_R741_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R752 a brick:VAV ;
+    brick:feeds soda:R752 ;
+    brick:hasPoint soda:VAV_R752_ARS,
+        soda:VAV_R752_VAV .
+
+soda:VAV_R752_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R752_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R765 a brick:VAV ;
+    brick:feeds soda:R765 ;
+    brick:hasPoint soda:VAV_R765_ARS .
+
+soda:VAV_R765_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R771 a brick:VAV ;
+    brick:feeds soda:R771 ;
+    brick:hasPoint soda:VAV_R771_ARS .
+
+soda:VAV_R771_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R773 a brick:VAV ;
+    brick:feeds soda:R773 ;
+    brick:hasPoint soda:VAV_R773_ARS .
+
+soda:VAV_R773_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R775 a brick:VAV ;
+    brick:feeds soda:R775 ;
+    brick:hasPoint soda:VAV_R775_ARS .
+
+soda:VAV_R775_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R776 a brick:VAV ;
+    brick:feeds soda:R776 ;
+    brick:hasPoint soda:VAV_R776_ARS,
+        soda:VAV_R776_VAV .
+
+soda:VAV_R776_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R776_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R777 a brick:VAV ;
+    brick:feeds soda:R777 ;
+    brick:hasPoint soda:VAV_R777_ARS .
+
+soda:VAV_R777_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R779 a brick:VAV ;
+    brick:feeds soda:R779 ;
+    brick:hasPoint soda:VAV_R779_ARS .
+
+soda:VAV_R779_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R781 a brick:VAV ;
+    brick:feeds soda:R781 ;
+    brick:hasPoint soda:VAV_R781_ARS .
+
+soda:VAV_R781_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R783 a brick:VAV ;
+    brick:feeds soda:R783 ;
+    brick:hasPoint soda:VAV_R783_ARS .
+
+soda:VAV_R783_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R784 a brick:VAV ;
+    brick:feeds soda:R784 ;
+    brick:hasPoint soda:VAV_R784_ARS,
+        soda:VAV_R784_VAV .
+
+soda:VAV_R784_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R784_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R785 a brick:VAV ;
+    brick:feeds soda:R785 ;
+    brick:hasPoint soda:VAV_R785_ARS .
+
+soda:VAV_R785_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R787 a brick:VAV ;
+    brick:feeds soda:R787 ;
+    brick:hasPoint soda:VAV_R787_ARS .
+
+soda:VAV_R787_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R789 a brick:VAV ;
+    brick:feeds soda:R789 ;
+    brick:hasPoint soda:VAV_R789_ARS .
+
+soda:VAV_R789_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R795 a brick:VAV ;
+    brick:feeds soda:R795 ;
+    brick:hasPoint soda:VAV_R795_ARS .
+
+soda:VAV_R795_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R798 a brick:VAV ;
+    brick:feeds soda:R798 ;
+    brick:hasPoint soda:VAV_R798_ARS,
+        soda:VAV_R798_VAV .
+
+soda:VAV_R798_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_R798_VAV a brick:Discharge_Air_Static_Pressure_Sensor .
+
+soda:VAV_R800A a brick:VAV ;
+    brick:feeds soda:R800A ;
+    brick:hasPoint soda:VAV_R800A_ARS .
+
+soda:VAV_R800A_ARS a brick:Zone_Air_Temperature_Setpoint .
+
+soda:VAV_zone_337A a brick:VAV ;
+    brick:feeds soda:zone_337A .
+
+soda:zone_337A a brick:HVAC_Zone .
+
+soda:E12_filter a brick:Filter .
+
+soda:E13_filter a brick:Filter .
+
+soda:S11_filter a brick:Filter .
+
+soda:VAV_R369 a brick:VAV ;
+    brick:feeds soda:R369 ;
+    brick:hasPoint soda:VAV_R369_ARS .
+
