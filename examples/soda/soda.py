@@ -1,9 +1,11 @@
+import sys
+sys.path.append("../../")
+from engine import _and_, tags, oneof, rules, JSONFileStream, drive
+
 import brickschema
 from brickschema.namespaces import BRICK, A
 from rdflib import Namespace
 import json
-
-rules = []
 
 G = brickschema.Graph()
 SODA = Namespace("urn:soda_hall#")
@@ -192,9 +194,6 @@ def ahu_ef_filter(row):
     G.add((SODA[ahu], BRICK.hasPart, SODA[fil]))
     G.add((SODA[ef], BRICK.feeds, SODA[fil]))
 
-rows = json.load(open("rows.json"))
-for row in rows:
-    for rule in rules:
-        rule(row)
+drive(JSONFileStream("rows.json"))
 
 G.serialize("soda_hall.ttl", format="ttl")
