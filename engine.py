@@ -65,6 +65,22 @@ def tags(*tags):
         return f
     return _matches
 
+def values(value_pairs):
+    def _matches(func):
+        def f(row):
+            # match the tags
+            for (tag, value) in value_pairs.items():
+                if tag not in row.keys():
+                    return None
+                if row[tag] != value:
+                    return None
+            return func(row)
+        if getattr(f, "__fixedpoint__", None):
+            fixedpoint_rules.append(f)
+        rules.append(f)
+        return f
+    return _matches
+
 def oneof(*tags):
     s = set(tags)
     def _matches(func):
