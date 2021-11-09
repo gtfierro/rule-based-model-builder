@@ -94,7 +94,6 @@ def vav_points(row):
             G.add((SMC[vav_name], BRICK.hasPoint, SMC[point]))
 
 @_and_([tags, "boiler", "uuid"], [oneof, *point_types.keys()])
-@fixedpoint("G")
 def add_boiler(row):
     boiler = row.get("boiler")
     G.add((SMC[boiler], A, BRICK.Boiler))
@@ -106,6 +105,10 @@ def add_boiler(row):
                 (BRICK.hasTimeseriesId, Literal(row.get("uuid")))
             ]))
             G.add((SMC[boiler], BRICK.hasPoint, SMC[point]))
+
+@_and_([tags, "boiler", "uuid"], [oneof, *point_types.keys()])
+@fixedpoint("G")
+def add_reheat_coil(row):
     G.update("""INSERT { ?boiler brick:feeds ?thing }
                WHERE {
                 ?boiler a brick:Boiler .

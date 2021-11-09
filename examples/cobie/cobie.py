@@ -98,10 +98,10 @@ def add_zones(row):
                 WHERE {{ ?room a brick:Room . 
                         ?room rdfs:label "{row['SpaceName']}" }}""")
 
-drive(CSVFileStream("../../ifc-example/facility.csv"),
-      CSVFileStream("../../ifc-example/floor.csv"),
-      CSVFileStream("../../ifc-example/room.csv"),
-      CSVFileStream("../../ifc-example/zone.csv"))
+drive(CSVFileStream("facility.csv"),
+      CSVFileStream("floor.csv"),
+      CSVFileStream("room.csv"),
+      CSVFileStream("zone.csv"))
 valid, _, report = G.validate()
 if not valid:
     print(report)
