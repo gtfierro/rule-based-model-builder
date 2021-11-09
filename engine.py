@@ -59,7 +59,7 @@ def tags(*tags):
                 if tag not in row.keys():
                     return None
             return func(row)
-        if getattr(f, "__fixedpoint__", None):
+        if getattr(func, "__fixedpoint__", False):
             fixedpoint_rules.append(f)
         rules.append(f)
         return f
@@ -75,7 +75,7 @@ def values(value_pairs):
                 if row[tag] != value:
                     return None
             return func(row)
-        if getattr(f, "__fixedpoint__", None):
+        if getattr(func, "__fixedpoint__", False):
             fixedpoint_rules.append(f)
         rules.append(f)
         return f
@@ -88,7 +88,7 @@ def oneof(*tags):
             if len(set(row.keys()).intersection(s)) > 0:
                 return func(row)
             return None
-        if getattr(f, "__fixedpoint__", None):
+        if getattr(func, "__fixedpoint__", False):
             fixedpoint_rules.append(f)
         rules.append(f)
         return f
@@ -107,7 +107,7 @@ def _and_(*_conds):
                     return None
             return func(row)
         if f is not None:
-            if getattr(f, "__fixedpoint__", None):
+            if getattr(func, "__fixedpoint__", False):
                 fixedpoint_rules.append(f)
             rules.append(f)
         return f
@@ -153,11 +153,15 @@ class JSONFileStream(Stream):
     def next(self):
         return next(self.f)
 
-def drive(stream):
-    for row in stream:
-        for rule in rules:
-            rule(row)
-    while any_changed() and len(fixedpoint_rules) > 0:
-        for row in iter(stream):
-            for rule in fixedpoint_rules:
+def drive(*streams):
+    # apply each rule on each row in each stream once
+    for stream in streams:
+        for row in stream:
+            for rule in rules:
                 rule(row)
+    print('fixed point rules?', fixedpoint_rules)
+    while any_changed() and len(fixedpoint_rules) > 0:
+        for stream in streams:
+            for row in iter(stream):
+                for rule in fixedpoint_rules:
+                    rule(row)
