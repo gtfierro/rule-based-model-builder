@@ -61,7 +61,7 @@ def add_floors(row):
 
 ---
 
-`__and__`: triggers the rule when all of the given conditions are met. Sorry for the funky syntax; ideally the decorators compose easily but this will take some work to figure out how to do
+`_and_`: triggers the rule when all of the given conditions are met. Sorry for the funky syntax; ideally the decorators compose easily but this will take some work to figure out how to do
 
 
 ```python
