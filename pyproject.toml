@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "brick-bodge"
+version = "0.1.0"
+description = "Rule-based framework for building Brick models from simple functions"
+authors = ["Gabe Fierro <gtfierro@mines.edu>"]
+license = "bsd-3-clause"
+readme = "README.md"
+packages = [{include = "bodge"}]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+brickschema = "^0.5.1"
+rdflib = "^6.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

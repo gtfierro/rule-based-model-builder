@@ -6,6 +6,7 @@ from brickschema.namespaces import BRICK, A, RDFS, UNIT
 from rdflib import Namespace, Literal
 
 # TODO: process the components tab
+# TODO: use https://github.com/IfcOpenShell/IfcOpenShell/blob/v0.7.0/src/ifccobie/cobie.py  (ignore the Writer)
 
 G = brickschema.Graph()
 EX = Namespace("ex:")
