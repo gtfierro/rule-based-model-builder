@@ -1,4 +1,6 @@
 import csv
+from warnings import warn
+import re
 import json
 import tempfile
 from inspect import getclosurevars as closure_vars
@@ -56,9 +58,24 @@ def tags(*tags):
         def f(row):
             # match the tags
             for tag in tags:
-                if tag not in row.keys():
+                if tag not in row.keys() or not row[tag]:
                     return None
             return func(row)
+        if getattr(func, "__fixedpoint__", False):
+            fixedpoint_rules.append(f)
+        rules.append(f)
+        return f
+    return _matches
+
+def fun(fn, *args):
+    def _matches(func):
+        def f(row):
+            # match the tags
+            try:
+                if fn(row, *args):
+                    return func(row)
+            except Exception as e:
+                warn(f"Error in rule {func}: {e}")
         if getattr(func, "__fixedpoint__", False):
             fixedpoint_rules.append(f)
         rules.append(f)
@@ -73,6 +90,22 @@ def values(value_pairs):
                 if tag not in row.keys():
                     return None
                 if row[tag] != value:
+                    return None
+            return func(row)
+        if getattr(func, "__fixedpoint__", False):
+            fixedpoint_rules.append(f)
+        rules.append(f)
+        return f
+    return _matches
+
+def value_matches(value_pairs):
+    def _matches(func):
+        def f(row):
+            # match the tags
+            for (tag, value) in value_pairs.items():
+                if tag not in row.keys():
+                    return None
+                if not re.match(value, row[tag]):
                     return None
             return func(row)
         if getattr(func, "__fixedpoint__", False):
@@ -157,11 +190,15 @@ def drive(*streams):
     # apply each rule on each row in each stream once
     for stream in streams:
         for row in stream:
+            if row is None:
+                continue
             for rule in rules:
                 rule(row)
     print('fixed point rules?', fixedpoint_rules)
     while any_changed() and len(fixedpoint_rules) > 0:
         for stream in streams:
             for row in iter(stream):
+                if row is None:
+                    continue
                 for rule in fixedpoint_rules:
                     rule(row)
